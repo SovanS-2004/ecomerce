@@ -1,0 +1,851 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Gender,Age,City,State,Product,Category,Quantity,Unit_Price,Discount,Sales,Profit,Payment_Method,Order_Status
+ORD-10491,2023-01-01,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,Levi's 511 Slim Fit Denim,Fashion,3,2899.0,25.0,6522.75,2065.54,Credit Card,Delivered
+ORD-10645,2023-01-01,CUST-0029,Harish Hegde,Male,40,Mysuru,Karnataka,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,3,350.0,5.0,997.5,385.7,UPI,Delivered
+ORD-10341,2023-01-02,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,OnePlus Nord CE 3 Lite 5G,Electronics,1,18499.0,10.0,16649.1,-998.95,Cash on Delivery,Returned
+ORD-10032,2023-01-03,CUST-0036,Kajal Tripathi,Female,28,Varanasi,Uttar Pradesh,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,2,2850.0,10.0,5130.0,2298.24,UPI,Delivered
+ORD-10048,2023-01-03,CUST-0078,Suraj Patil,Male,30,Jaipur,Rajasthan,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,15.0,13174.15,2845.62,Credit Card,Delivered
+ORD-10078,2023-01-03,CUST-0020,Meera Nambiar,Female,39,Thiruvananthapuram,Kerala,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,2,31900.0,15.0,54230.0,10249.47,UPI,Delivered
+ORD-10184,2023-01-06,CUST-0034,Preeti Dubey,Female,26,Lucknow,Uttar Pradesh,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,10.0,899.1,352.45,UPI,Delivered
+ORD-10223,2023-01-07,CUST-0074,Harshit Chopra,Male,27,Ludhiana,Punjab,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,3,649.0,0.0,1947.0,817.74,UPI,Delivered
+ORD-10481,2023-01-08,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,0.0,699.0,279.6,UPI,Delivered
+ORD-10310,2023-01-10,CUST-0082,Harshit Kaur,Male,55,New Delhi,Delhi,Philips Digital Air Fryer HD9252,Home & Kitchen,2,8499.0,10.0,15298.2,3569.58,Debit Card,Pending
+ORD-10526,2023-01-10,CUST-0045,Mohit Suri,Male,25,Noida,Uttar Pradesh,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,1,3295.0,25.0,2471.25,659.0,UPI,Delivered
+ORD-10357,2023-01-13,CUST-0081,Radhika Singhania,Female,54,Gurugram,Haryana,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,2,350.0,25.0,525.0,175.0,UPI,Delivered
+ORD-10573,2023-01-15,CUST-0122,Alok Rastogi,Male,35,New Delhi,Delhi,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,5.0,14724.05,3415.98,UPI,Delivered
+ORD-10659,2023-01-15,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,Atomic Habits by James Clear,Books & Stationery,2,499.0,15.0,848.3,274.85,Credit Card,Delivered
+ORD-10206,2023-01-17,CUST-0082,Harshit Kaur,Male,55,New Delhi,Delhi,Nike Air Max 270 Sneakers,Fashion,1,8995.0,15.0,7645.75,2201.98,Credit Card,Delivered
+ORD-10692,2023-01-17,CUST-0006,Sneha Reddy,Female,27,Hyderabad,Telangana,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,1,599.0,0.0,599.0,0.0,Debit Card,Cancelled
+ORD-10127,2023-01-20,CUST-0003,Rahul Verma,Male,24,Bengaluru,Karnataka,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,15.0,27115.0,-1626.9,Credit Card,Returned
+ORD-10326,2023-01-20,CUST-0076,Mayank Rastogi,Male,36,Jaipur,Rajasthan,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,1,499.0,15.0,424.15,171.78,UPI,Pending
+ORD-10390,2023-01-20,CUST-0137,Chetan Patil,Male,57,Thiruvananthapuram,Kerala,Nike Air Max 270 Sneakers,Fashion,2,8995.0,0.0,17990.0,5756.8,UPI,Delivered
+ORD-10062,2023-01-23,CUST-0123,Rhea Trivedi,Female,41,Gurugram,Haryana,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,1,1799.0,15.0,1529.15,0.0,Debit Card,Cancelled
+ORD-10334,2023-01-23,CUST-0093,Aryan Mittal,Male,54,Noida,Uttar Pradesh,Ray-Ban Aviator Polarized Sunglasses,Fashion,2,7490.0,0.0,14980.0,6291.6,Cash on Delivery,Pending
+ORD-10559,2023-01-23,CUST-0011,Karan Malhotra,Male,38,Noida,Uttar Pradesh,Parker Frontier Matte Black Fountain Pen,Books & Stationery,3,650.0,15.0,1657.5,686.21,Cash on Delivery,Delivered
+ORD-10204,2023-01-24,CUST-0086,Tushar Mittal,Male,20,Bengaluru,Karnataka,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,2,950.0,15.0,1615.0,479.66,UPI,Delivered
+ORD-10440,2023-01-26,CUST-0044,Archana Pillai,Female,36,Coimbatore,Tamil Nadu,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,15.0,2031.5,621.64,UPI,Delivered
+ORD-10092,2023-01-30,CUST-0043,Rohit Khandelwal,Male,32,Indore,Madhya Pradesh,Zara Classic Linen Casual Shirt,Fashion,2,2990.0,5.0,5681.0,0.0,UPI,Cancelled
+ORD-10365,2023-01-30,CUST-0062,Shreya Aggarwal,Female,43,New Delhi,Delhi,Nike Air Max 270 Sneakers,Fashion,2,8995.0,0.0,17990.0,5756.8,UPI,Pending
+ORD-10405,2023-01-30,CUST-0065,Nandini Rastogi,Female,55,Coimbatore,Tamil Nadu,The Psychology of Money by Morgan Housel,Books & Stationery,2,399.0,10.0,718.2,254.72,UPI,Delivered
+ORD-10742,2023-01-30,CUST-0041,Tarun Sethi,Male,43,Chandigarh,Punjab,Sony WH-1000XM5 ANC Headphones,Electronics,1,26990.0,0.0,26990.0,5937.8,UPI,Delivered
+ORD-10301,2023-01-31,CUST-0033,Sameer Khan,Male,30,Hyderabad,Telangana,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,1,950.0,0.0,950.0,313.5,Net Banking,Delivered
+ORD-10082,2023-02-01,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,Boat Rockerz 450 Bluetooth Headset,Electronics,3,1499.0,10.0,4047.3,1322.12,Credit Card,Delivered
+ORD-10533,2023-02-02,CUST-0076,Mayank Rastogi,Male,36,Jaipur,Rajasthan,Philips Digital Air Fryer HD9252,Home & Kitchen,2,8499.0,0.0,16998.0,4249.5,Debit Card,Delivered
+ORD-10549,2023-02-02,CUST-0032,Bhavna Shah,Female,37,Mumbai,Maharashtra,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,15.0,12324.15,2440.18,Credit Card,Delivered
+ORD-10143,2023-02-03,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,2,999.0,5.0,1898.1,770.63,Debit Card,Delivered
+ORD-10428,2023-02-03,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,1,950.0,25.0,712.5,195.94,Credit Card,Delivered
+ORD-10343,2023-02-04,CUST-0003,Rahul Verma,Male,24,Bengaluru,Karnataka,Philips Digital Air Fryer HD9252,Home & Kitchen,1,8499.0,0.0,8499.0,2124.75,UPI,Delivered
+ORD-10652,2023-02-04,CUST-0132,Suraj Bhattacharya,Male,24,Ludhiana,Punjab,Boat Rockerz 450 Bluetooth Headset,Electronics,2,1499.0,0.0,2998.0,1049.3,Net Banking,Delivered
+ORD-10803,2023-02-04,CUST-0138,Shreya Kaur,Female,33,Jaipur,Rajasthan,Philips Digital Air Fryer HD9252,Home & Kitchen,2,8499.0,10.0,15298.2,3569.58,UPI,Delivered
+ORD-10136,2023-02-07,CUST-0042,Pallavi Shenoy,Female,29,Bengaluru,Karnataka,The Psychology of Money by Morgan Housel,Books & Stationery,1,399.0,25.0,299.25,94.76,Cash on Delivery,Pending
+ORD-10579,2023-02-10,CUST-0088,Pranav Aggarwal,Male,51,Chennai,Tamil Nadu,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,10.0,6741.0,2642.47,UPI,Delivered
+ORD-10181,2023-02-13,CUST-0044,Archana Pillai,Female,36,Coimbatore,Tamil Nadu,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,10.0,13949.1,3124.6,Debit Card,Delivered
+ORD-10594,2023-02-13,CUST-0078,Suraj Patil,Male,30,Jaipur,Rajasthan,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,20.0,5992.0,2181.09,UPI,Delivered
+ORD-10471,2023-02-14,CUST-0008,Pooja Nair,Female,30,Kochi,Kerala,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,0.0,7490.0,3145.8,UPI,Delivered
+ORD-10838,2023-02-16,CUST-0084,Payal Aggarwal,Female,43,Varanasi,Uttar Pradesh,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,10.0,3149.1,822.96,Credit Card,Delivered
+ORD-10840,2023-02-16,CUST-0013,Amitabh Sen,Male,45,Kolkata,West Bengal,OnePlus Nord CE 3 Lite 5G,Electronics,2,18499.0,5.0,35148.1,6795.3,Debit Card,Delivered
+ORD-10231,2023-02-17,CUST-0043,Rohit Khandelwal,Male,32,Indore,Madhya Pradesh,Sony WH-1000XM5 ANC Headphones,Electronics,2,26990.0,15.0,45883.0,9084.83,UPI,Delivered
+ORD-10164,2023-02-19,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,Sony WH-1000XM5 ANC Headphones,Electronics,1,26990.0,25.0,20242.5,3711.13,Credit Card,Delivered
+ORD-10630,2023-02-21,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,OnePlus Nord CE 3 Lite 5G,Electronics,1,18499.0,10.0,16649.1,3107.83,Debit Card,Delivered
+ORD-10043,2023-02-22,CUST-0074,Harshit Chopra,Male,27,Ludhiana,Punjab,Zara Classic Linen Casual Shirt,Fashion,1,2990.0,5.0,2840.5,1098.33,Debit Card,Delivered
+ORD-10173,2023-02-22,CUST-0072,Yash Aggarwal,Male,30,Gurugram,Haryana,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,20.0,11599.2,2211.58,Debit Card,Delivered
+ORD-10095,2023-02-23,CUST-0096,Dev Rastogi,Male,35,New Delhi,Delhi,Nike Air Max 270 Sneakers,Fashion,2,8995.0,0.0,17990.0,5756.8,UPI,Delivered
+ORD-10122,2023-02-23,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,3,1799.0,15.0,4587.45,0.0,Debit Card,Cancelled
+ORD-10576,2023-02-24,CUST-0043,Rohit Khandelwal,Male,32,Indore,Madhya Pradesh,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,3,499.0,0.0,1497.0,673.65,UPI,Delivered
+ORD-10382,2023-02-25,CUST-0052,Mayank Singhania,Male,54,Mysuru,Karnataka,Nike Air Max 270 Sneakers,Fashion,3,8995.0,5.0,25635.75,7929.99,Credit Card,Delivered
+ORD-10702,2023-02-25,CUST-0057,Dev Bhattacharya,Male,26,Kolkata,West Bengal,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,1,649.0,15.0,551.65,208.52,UPI,Delivered
+ORD-10057,2023-02-27,CUST-0011,Karan Malhotra,Male,38,Noida,Uttar Pradesh,Prestige Induction Cooktop 2000W,Home & Kitchen,1,2899.0,0.0,2899.0,811.72,UPI,Delivered
+ORD-10618,2023-02-27,CUST-0052,Mayank Singhania,Male,54,Mysuru,Karnataka,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,20.0,1912.0,563.4,Credit Card,Delivered
+ORD-10375,2023-02-28,CUST-0083,Isha Rastogi,Female,54,Gurugram,Haryana,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,20.0,11599.2,2211.58,UPI,Delivered
+ORD-10384,2023-03-01,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,Boat Rockerz 450 Bluetooth Headset,Electronics,1,1499.0,25.0,1124.25,327.91,Credit Card,Pending
+ORD-10275,2023-03-02,CUST-0052,Mayank Singhania,Male,54,Mysuru,Karnataka,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,25.0,11624.25,2324.85,UPI,Delivered
+ORD-10088,2023-03-03,CUST-0061,Tara Desai,Female,34,Mysuru,Karnataka,Nivia Storm Football Size 5,Sports & Fitness,2,699.0,20.0,1118.4,387.71,UPI,Delivered
+ORD-10673,2023-03-03,CUST-0011,Karan Malhotra,Male,38,Noida,Uttar Pradesh,Prestige Induction Cooktop 2000W,Home & Kitchen,1,2899.0,0.0,2899.0,811.72,Cash on Delivery,Delivered
+ORD-10260,2023-03-06,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,2,3499.0,15.0,5948.3,1498.97,UPI,Delivered
+ORD-10279,2023-03-06,CUST-0080,Kabir Mittal,Male,56,Bengaluru,Karnataka,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,10.0,13049.1,2679.42,Credit Card,Pending
+ORD-10488,2023-03-07,CUST-0031,Varun Menon,Male,32,Kochi,Kerala,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,15.0,27115.0,5124.73,UPI,Delivered
+ORD-10519,2023-03-07,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,The Body Shop British Rose Shower Gel,Beauty & Personal Care,1,795.0,25.0,596.25,218.63,Debit Card,Delivered
+ORD-10635,2023-03-08,CUST-0027,Nikhil Chauhan,Male,26,Ludhiana,Punjab,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,1,599.0,10.0,539.1,231.45,UPI,Pending
+ORD-10150,2023-03-09,CUST-0003,Rahul Verma,Male,24,Bengaluru,Karnataka,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,4,950.0,20.0,3040.0,869.44,UPI,Delivered
+ORD-10356,2023-03-10,CUST-0024,Tanvi Kulkarni,Female,23,Pune,Maharashtra,OnePlus Nord CE 3 Lite 5G,Electronics,1,18499.0,15.0,15724.15,2830.35,UPI,Delivered
+ORD-10548,2023-03-10,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,0.0,109990.0,0.0,UPI,Cancelled
+ORD-10585,2023-03-11,CUST-0126,Aryan Bhatia,Male,32,Surat,Gujarat,Nivia Storm Football Size 5,Sports & Fitness,3,699.0,0.0,2097.0,838.8,Cash on Delivery,Delivered
+ORD-10668,2023-03-11,CUST-0001,Aarav Sharma,Male,28,Mumbai,Maharashtra,OnePlus Nord CE 3 Lite 5G,Electronics,1,18499.0,0.0,18499.0,3699.8,UPI,Delivered
+ORD-10077,2023-03-12,CUST-0039,Akash Bansal,Male,27,Gurugram,Haryana,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,2,999.0,25.0,1498.5,0.0,UPI,Cancelled
+ORD-10678,2023-03-13,CUST-0075,Tara Narang,Female,47,New Delhi,Delhi,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,20.0,799.2,290.91,Credit Card,Pending
+ORD-10552,2023-03-14,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Philips Digital Air Fryer HD9252,Home & Kitchen,3,8499.0,15.0,21672.45,4876.3,Debit Card,Delivered
+ORD-10830,2023-03-14,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,10.0,629.1,234.86,UPI,Delivered
+ORD-10685,2023-03-15,CUST-0040,Deepika Sundaram,Female,33,Chennai,Tamil Nadu,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,10.0,98991.0,12934.82,Credit Card,Delivered
+ORD-10151,2023-03-17,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,Zara Classic Linen Casual Shirt,Fashion,1,2990.0,10.0,2691.0,1004.64,Credit Card,Delivered
+ORD-10344,2023-03-18,CUST-0024,Tanvi Kulkarni,Female,23,Pune,Maharashtra,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,15.0,2974.15,0.0,Debit Card,Cancelled
+ORD-10105,2023-03-19,CUST-0067,Nandini Singhania,Female,33,Thiruvananthapuram,Kerala,Allen Solly Men's Cotton Polo,Fashion,2,1199.0,10.0,2158.2,886.3,Debit Card,Delivered
+ORD-10782,2023-03-19,CUST-0080,Kabir Mittal,Male,56,Bengaluru,Karnataka,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,0.0,999.0,419.58,Credit Card,Delivered
+ORD-10108,2023-03-20,CUST-0010,Neha Gupta,Female,26,New Delhi,Delhi,Atomic Habits by James Clear,Books & Stationery,2,499.0,15.0,848.3,274.85,Credit Card,Delivered
+ORD-10750,2023-03-20,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,0.0,109990.0,15398.6,UPI,Delivered
+ORD-10154,2023-03-22,CUST-0122,Alok Rastogi,Male,35,New Delhi,Delhi,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,15.0,27115.0,5124.73,Credit Card,Delivered
+ORD-10227,2023-03-22,CUST-0013,Amitabh Sen,Male,45,Kolkata,West Bengal,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,2,950.0,0.0,1900.0,-114.0,UPI,Returned
+ORD-10234,2023-03-22,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,10.0,2151.0,682.58,UPI,Delivered
+ORD-10355,2023-03-22,CUST-0014,Kavita Mehra,Female,34,Chandigarh,Punjab,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,1,1799.0,25.0,1349.25,472.24,Cash on Delivery,Delivered
+ORD-10054,2023-03-24,CUST-0067,Nandini Singhania,Female,33,Thiruvananthapuram,Kerala,Kent Grand Plus RO Water Purifier,Home & Kitchen,2,15499.0,10.0,27898.2,-1673.89,Credit Card,Returned
+ORD-10083,2023-03-24,CUST-0095,Sanya Desai,Female,55,Bengaluru,Karnataka,SleepyCat Memory Foam Ortho Mattress,Home & Kitchen,1,13999.0,0.0,13999.0,4199.7,Credit Card,Delivered
+ORD-10228,2023-03-24,CUST-0080,Kabir Mittal,Male,56,Bengaluru,Karnataka,Atomic Habits by James Clear,Books & Stationery,1,499.0,10.0,449.1,150.9,Credit Card,Delivered
+ORD-10007,2023-03-27,CUST-0089,Isha Patil,Female,50,Gurugram,Haryana,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,1,1799.0,10.0,1619.1,634.69,UPI,Delivered
+ORD-10778,2023-03-28,CUST-0063,Isha Aggarwal,Female,37,Indore,Madhya Pradesh,Atomic Habits by James Clear,Books & Stationery,3,499.0,0.0,1497.0,538.92,UPI,Delivered
+ORD-10020,2023-03-29,CUST-0007,Vikram Singh,Male,41,Jaipur,Rajasthan,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,15.0,9770.75,3253.66,Debit Card,Delivered
+ORD-10029,2023-03-29,CUST-0045,Mohit Suri,Male,25,Noida,Uttar Pradesh,Levi's 511 Slim Fit Denim,Fashion,1,2899.0,10.0,2609.1,925.36,Debit Card,Delivered
+ORD-10572,2023-03-29,CUST-0035,Abhishek Das,Male,34,Kolkata,West Bengal,Apple iPhone 15 (128GB),Electronics,1,74999.0,0.0,74999.0,-4499.94,Cash on Delivery,Returned
+ORD-10720,2023-03-31,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,OnePlus Nord CE 3 Lite 5G,Electronics,2,18499.0,5.0,35148.1,-2108.89,UPI,Returned
+ORD-10340,2023-04-01,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,Parker Frontier Matte Black Fountain Pen,Books & Stationery,1,650.0,5.0,617.5,274.58,Debit Card,Delivered
+ORD-10385,2023-04-01,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,10.0,6741.0,2642.47,Net Banking,Delivered
+ORD-10831,2023-04-02,CUST-0051,Kabir Chopra,Male,37,Chennai,Tamil Nadu,Apple iPad Air M2,Electronics,1,54900.0,0.0,54900.0,9333.0,UPI,Delivered
+ORD-10068,2023-04-03,CUST-0132,Suraj Bhattacharya,Male,24,Ludhiana,Punjab,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,1,599.0,0.0,599.0,275.54,Credit Card,Delivered
+ORD-10462,2023-04-03,CUST-0058,Sanya Bhatia,Female,49,Jaipur,Rajasthan,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,1,3295.0,20.0,2636.0,731.05,Net Banking,Delivered
+ORD-10087,2023-04-04,CUST-0094,Kiara Narang,Female,49,Chennai,Tamil Nadu,Samsung Galaxy S24 5G,Electronics,1,69999.0,10.0,62999.1,10583.85,Debit Card,Delivered
+ORD-10238,2023-04-04,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,Sony WH-1000XM5 ANC Headphones,Electronics,1,26990.0,25.0,20242.5,3711.13,UPI,Delivered
+ORD-10561,2023-04-05,CUST-0010,Neha Gupta,Female,26,New Delhi,Delhi,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,0.0,14499.0,3189.78,Debit Card,Delivered
+ORD-10783,2023-04-05,CUST-0065,Nandini Rastogi,Female,55,Coimbatore,Tamil Nadu,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,1,350.0,5.0,332.5,128.57,Credit Card,Delivered
+ORD-10277,2023-04-06,CUST-0082,Harshit Kaur,Male,55,New Delhi,Delhi,The Body Shop British Rose Shower Gel,Beauty & Personal Care,2,795.0,20.0,1272.0,0.0,UPI,Cancelled
+ORD-10835,2023-04-06,CUST-0014,Kavita Mehra,Female,34,Chandigarh,Punjab,Mi 360 Home Security Camera 2K,Electronics,1,2999.0,10.0,2699.1,755.75,Credit Card,Delivered
+ORD-10086,2023-04-08,CUST-0024,Tanvi Kulkarni,Female,23,Pune,Maharashtra,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,1,950.0,5.0,902.5,287.9,UPI,Delivered
+ORD-10191,2023-04-08,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Nike Air Max 270 Sneakers,Fashion,1,8995.0,0.0,8995.0,2878.4,UPI,Delivered
+ORD-10226,2023-04-09,CUST-0099,Payal Chopra,Female,55,Ludhiana,Punjab,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,15.0,849.15,320.98,Debit Card,Delivered
+ORD-10256,2023-04-10,CUST-0056,Simran Narang,Female,29,Coimbatore,Tamil Nadu,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,2,499.0,5.0,948.1,412.42,UPI,Delivered
+ORD-10348,2023-04-10,CUST-0038,Monika Soni,Female,31,Jaipur,Rajasthan,Apple iPad Air M2,Electronics,1,54900.0,0.0,54900.0,9333.0,Net Banking,Delivered
+ORD-10624,2023-04-11,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,0.0,999.0,419.58,Debit Card,Delivered
+ORD-10701,2023-04-11,CUST-0008,Pooja Nair,Female,30,Kochi,Kerala,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,0.0,11495.0,4253.15,UPI,Delivered
+ORD-10031,2023-04-12,CUST-0065,Nandini Rastogi,Female,55,Coimbatore,Tamil Nadu,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,20.0,9196.0,2948.85,UPI,Delivered
+ORD-10578,2023-04-12,CUST-0071,Kartik Kaur,Male,25,Gurugram,Haryana,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,3,950.0,15.0,2422.5,719.48,UPI,Delivered
+ORD-10757,2023-04-12,CUST-0030,Aarti Goswami,Female,29,Ahmedabad,Gujarat,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,20.0,2799.2,679.27,UPI,Delivered
+ORD-10758,2023-04-12,CUST-0086,Tushar Mittal,Male,20,Bengaluru,Karnataka,Ray-Ban Aviator Polarized Sunglasses,Fashion,2,7490.0,10.0,13482.0,5284.94,Credit Card,Delivered
+ORD-10486,2023-04-13,CUST-0036,Kajal Tripathi,Female,28,Varanasi,Uttar Pradesh,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,5.0,7115.5,2888.89,Credit Card,Pending
+ORD-10628,2023-04-15,CUST-0058,Sanya Bhatia,Female,49,Jaipur,Rajasthan,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,5.0,7115.5,2888.89,Net Banking,Delivered
+ORD-10675,2023-04-16,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,Samsung Galaxy S24 5G,Electronics,1,69999.0,0.0,69999.0,12599.82,UPI,Delivered
+ORD-10133,2023-04-17,CUST-0066,Aryan Desai,Male,22,Gurugram,Haryana,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,5.0,2270.5,746.24,Debit Card,Delivered
+ORD-10416,2023-04-19,CUST-0070,Komal Grewal,Female,45,Kolkata,West Bengal,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,10.0,98991.0,12934.82,Debit Card,Delivered
+ORD-10165,2023-04-21,CUST-0080,Kabir Mittal,Male,56,Bengaluru,Karnataka,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,3,649.0,20.0,1557.6,566.97,UPI,Delivered
+ORD-10577,2023-04-21,CUST-0132,Suraj Bhattacharya,Male,24,Ludhiana,Punjab,Sony WH-1000XM5 ANC Headphones,Electronics,2,26990.0,20.0,43184.0,8233.75,Net Banking,Delivered
+ORD-10315,2023-04-22,CUST-0063,Isha Aggarwal,Female,37,Indore,Madhya Pradesh,Levi's 511 Slim Fit Denim,Fashion,1,2899.0,10.0,2609.1,925.36,UPI,Delivered
+ORD-10753,2023-04-25,CUST-0076,Mayank Rastogi,Male,36,Jaipur,Rajasthan,Apple iPhone 15 (128GB),Electronics,1,74999.0,25.0,56249.25,7499.9,Credit Card,Delivered
+ORD-10470,2023-04-27,CUST-0011,Karan Malhotra,Male,38,Noida,Uttar Pradesh,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,2,499.0,0.0,998.0,449.1,Credit Card,Delivered
+ORD-10790,2023-04-27,CUST-0008,Pooja Nair,Female,30,Kochi,Kerala,Nike Air Max 270 Sneakers,Fashion,1,8995.0,25.0,6746.25,1799.0,Credit Card,Pending
+ORD-10452,2023-04-28,CUST-0038,Monika Soni,Female,31,Jaipur,Rajasthan,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,25.0,8621.25,2658.22,Debit Card,Delivered
+ORD-10255,2023-04-29,CUST-0096,Dev Rastogi,Male,35,New Delhi,Delhi,The Psychology of Money by Morgan Housel,Books & Stationery,1,399.0,5.0,379.05,139.24,UPI,Delivered
+ORD-10732,2023-04-30,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Philips Digital Air Fryer HD9252,Home & Kitchen,1,8499.0,25.0,6374.25,1327.97,UPI,Delivered
+ORD-10395,2023-05-01,CUST-0065,Nandini Rastogi,Female,55,Coimbatore,Tamil Nadu,Philips Digital Air Fryer HD9252,Home & Kitchen,2,8499.0,10.0,15298.2,3569.58,UPI,Delivered
+ORD-10613,2023-05-01,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,The Psychology of Money by Morgan Housel,Books & Stationery,2,399.0,10.0,718.2,254.72,UPI,Delivered
+ORD-10812,2023-05-02,CUST-0149,Mayank Desai,Male,50,Kanpur,Uttar Pradesh,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,25.0,8621.25,2658.22,UPI,Pending
+ORD-10539,2023-05-03,CUST-0063,Isha Aggarwal,Female,37,Indore,Madhya Pradesh,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,1,649.0,0.0,649.0,272.58,Debit Card,Delivered
+ORD-10014,2023-05-04,CUST-0077,Ojas Aggarwal,Male,39,Chandigarh,Punjab,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,10.0,3149.1,822.96,UPI,Delivered
+ORD-10354,2023-05-04,CUST-0104,Chetan Singhania,Male,56,Chennai,Tamil Nadu,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,3,649.0,0.0,1947.0,-116.82,Debit Card,Returned
+ORD-10180,2023-05-05,CUST-0044,Archana Pillai,Female,36,Coimbatore,Tamil Nadu,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,10.0,629.1,234.86,Net Banking,Pending
+ORD-10729,2023-05-05,CUST-0124,Pranav Trivedi,Male,26,Ahmedabad,Gujarat,OnePlus Nord CE 3 Lite 5G,Electronics,2,18499.0,25.0,27748.5,4624.75,Credit Card,Delivered
+ORD-10599,2023-05-07,CUST-0024,Tanvi Kulkarni,Female,23,Pune,Maharashtra,Samsung Galaxy S24 5G,Electronics,1,69999.0,20.0,55999.2,8735.88,UPI,Delivered
+ORD-10755,2023-05-07,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,2,999.0,0.0,1998.0,839.16,UPI,Delivered
+ORD-10521,2023-05-10,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,Ray-Ban Aviator Polarized Sunglasses,Fashion,2,7490.0,0.0,14980.0,6291.6,UPI,Delivered
+ORD-10658,2023-05-10,CUST-0003,Rahul Verma,Male,24,Bengaluru,Karnataka,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,2,3499.0,5.0,6648.1,1799.42,Credit Card,Delivered
+ORD-10636,2023-05-11,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,20.0,2799.2,679.27,UPI,Pending
+ORD-10837,2023-05-11,CUST-0035,Abhishek Das,Male,34,Kolkata,West Bengal,Parker Frontier Matte Black Fountain Pen,Books & Stationery,3,650.0,15.0,1657.5,686.21,Credit Card,Delivered
+ORD-10454,2023-05-12,CUST-0131,Rhea Chopra,Female,47,Nagpur,Maharashtra,The Psychology of Money by Morgan Housel,Books & Stationery,1,399.0,15.0,339.15,115.99,UPI,Delivered
+ORD-10776,2023-05-12,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Prestige Induction Cooktop 2000W,Home & Kitchen,2,2899.0,15.0,4928.3,1241.93,Cash on Delivery,Delivered
+ORD-10813,2023-05-14,CUST-0050,Geeta Madhavan,Female,41,Chennai,Tamil Nadu,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,2,649.0,25.0,973.5,340.72,Credit Card,Delivered
+ORD-10079,2023-05-15,CUST-0027,Nikhil Chauhan,Male,26,Ludhiana,Punjab,Logitech MX Master 3S Mouse,Electronics,2,8995.0,0.0,17990.0,5037.2,UPI,Delivered
+ORD-10508,2023-05-15,CUST-0062,Shreya Aggarwal,Female,43,New Delhi,Delhi,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,3,999.0,20.0,2397.6,872.73,UPI,Delivered
+ORD-10722,2023-05-16,CUST-0085,Aryan Mittal,Male,24,Kolkata,West Bengal,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,1,3295.0,20.0,2636.0,731.05,UPI,Delivered
+ORD-10203,2023-05-17,CUST-0060,Mayank Singhania,Male,22,Chandigarh,Punjab,Parker Frontier Matte Black Fountain Pen,Books & Stationery,1,650.0,15.0,552.5,228.74,UPI,Delivered
+ORD-10457,2023-05-18,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,Parker Frontier Matte Black Fountain Pen,Books & Stationery,3,650.0,10.0,1755.0,753.48,Debit Card,Delivered
+ORD-10648,2023-05-18,CUST-0102,Anushka Rastogi,Female,53,New Delhi,Delhi,Samsung Galaxy S24 5G,Electronics,1,69999.0,20.0,55999.2,8735.88,Debit Card,Delivered
+ORD-10072,2023-05-19,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,20.0,2280.0,948.48,Credit Card,Delivered
+ORD-10568,2023-05-19,CUST-0034,Preeti Dubey,Female,26,Lucknow,Uttar Pradesh,The Body Shop British Rose Shower Gel,Beauty & Personal Care,1,795.0,10.0,715.5,293.83,UPI,Delivered
+ORD-10047,2023-05-20,CUST-0082,Harshit Kaur,Male,55,New Delhi,Delhi,Sony WH-1000XM5 ANC Headphones,Electronics,1,26990.0,25.0,20242.5,3711.13,Net Banking,Delivered
+ORD-10525,2023-05-20,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Prestige Induction Cooktop 2000W,Home & Kitchen,1,2899.0,0.0,2899.0,811.72,Credit Card,Delivered
+ORD-10649,2023-05-20,CUST-0053,Kabir Singhania,Male,33,Chennai,Tamil Nadu,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,20.0,87992.0,10676.36,Cash on Delivery,Pending
+ORD-10704,2023-05-20,CUST-0043,Rohit Khandelwal,Male,32,Indore,Madhya Pradesh,Boat Rockerz 450 Bluetooth Headset,Electronics,2,1499.0,0.0,2998.0,1049.3,UPI,Pending
+ORD-10098,2023-05-21,CUST-0007,Vikram Singh,Male,41,Jaipur,Rajasthan,Prestige Induction Cooktop 2000W,Home & Kitchen,1,2899.0,0.0,2899.0,811.72,Credit Card,Delivered
+ORD-10325,2023-05-21,CUST-0013,Amitabh Sen,Male,45,Kolkata,West Bengal,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,2,649.0,25.0,973.5,340.72,Credit Card,Delivered
+ORD-10249,2023-05-23,CUST-0016,Sunita Deshmukh,Female,42,Nagpur,Maharashtra,Parker Frontier Matte Black Fountain Pen,Books & Stationery,1,650.0,20.0,520.0,207.31,Credit Card,Delivered
+ORD-10647,2023-05-23,CUST-0056,Simran Narang,Female,29,Coimbatore,Tamil Nadu,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,5.0,7115.5,2888.89,UPI,Pending
+ORD-10071,2023-05-24,CUST-0033,Sameer Khan,Male,30,Hyderabad,Telangana,Apple iPhone 15 (128GB),Electronics,1,74999.0,5.0,71249.05,-4274.94,UPI,Returned
+ORD-10752,2023-05-26,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,The Psychology of Money by Morgan Housel,Books & Stationery,1,399.0,0.0,399.0,151.62,UPI,Delivered
+ORD-10383,2023-05-27,CUST-0144,Yash Aggarwal,Male,20,Gurugram,Haryana,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,0.0,15499.0,3719.76,Credit Card,Delivered
+ORD-10168,2023-05-28,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,15.0,6366.5,2406.54,UPI,Delivered
+ORD-10212,2023-05-28,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,2,599.0,10.0,1078.2,462.91,UPI,Delivered
+ORD-10814,2023-05-30,CUST-0014,Kavita Mehra,Female,34,Chandigarh,Punjab,Sony WH-1000XM5 ANC Headphones,Electronics,2,26990.0,0.0,53980.0,11875.6,Cash on Delivery,Delivered
+ORD-10642,2023-05-31,CUST-0086,Tushar Mittal,Male,20,Bengaluru,Karnataka,The Psychology of Money by Morgan Housel,Books & Stationery,2,399.0,5.0,758.1,278.48,Credit Card,Delivered
+ORD-10824,2023-06-01,CUST-0033,Sameer Khan,Male,30,Hyderabad,Telangana,Logitech MX Master 3S Mouse,Electronics,1,8995.0,25.0,6746.25,1574.13,Cash on Delivery,Delivered
+ORD-10676,2023-06-02,CUST-0016,Sunita Deshmukh,Female,42,Nagpur,Maharashtra,Atomic Habits by James Clear,Books & Stationery,3,499.0,20.0,1197.6,373.65,UPI,Delivered
+ORD-10601,2023-06-03,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Allen Solly Men's Cotton Polo,Fashion,1,1199.0,25.0,899.25,329.73,UPI,Delivered
+ORD-10351,2023-06-04,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Atomic Habits by James Clear,Books & Stationery,1,499.0,5.0,474.05,164.97,UPI,Pending
+ORD-10587,2023-06-05,CUST-0121,Harshit Singhania,Male,42,Gurugram,Haryana,Levi's 511 Slim Fit Denim,Fashion,1,2899.0,0.0,2899.0,1101.62,Credit Card,Pending
+ORD-10347,2023-06-07,CUST-0057,Dev Bhattacharya,Male,26,Kolkata,West Bengal,Logitech MX Master 3S Mouse,Electronics,1,8995.0,0.0,8995.0,2518.6,Credit Card,Delivered
+ORD-10623,2023-06-07,CUST-0058,Sanya Bhatia,Female,49,Jaipur,Rajasthan,Zara Classic Linen Casual Shirt,Fashion,3,2990.0,20.0,7176.0,0.0,UPI,Cancelled
+ORD-10727,2023-06-07,CUST-0068,Harshit Kaur,Male,45,Ludhiana,Punjab,Nike Air Max 270 Sneakers,Fashion,1,8995.0,5.0,8545.25,2643.33,Credit Card,Delivered
+ORD-10832,2023-06-07,CUST-0067,Nandini Singhania,Female,33,Thiruvananthapuram,Kerala,Sony WH-1000XM5 ANC Headphones,Electronics,1,26990.0,10.0,24291.0,4987.75,Cash on Delivery,Delivered
+ORD-10073,2023-06-08,CUST-0072,Yash Aggarwal,Male,30,Gurugram,Haryana,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,1,499.0,10.0,449.1,188.62,Net Banking,Delivered
+ORD-10501,2023-06-09,CUST-0048,Namrata Joshi,Female,34,Pune,Maharashtra,Samsung Galaxy S24 5G,Electronics,1,69999.0,0.0,69999.0,12599.82,Credit Card,Delivered
+ORD-10040,2023-06-14,CUST-0080,Kabir Mittal,Male,56,Bengaluru,Karnataka,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,2,950.0,5.0,1805.0,575.79,UPI,Delivered
+ORD-10427,2023-06-14,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,25.0,11624.25,2324.85,Debit Card,Delivered
+ORD-10487,2023-06-14,CUST-0029,Harish Hegde,Male,40,Mysuru,Karnataka,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,1,499.0,0.0,499.0,224.55,Credit Card,Pending
+ORD-10118,2023-06-16,CUST-0035,Abhishek Das,Male,34,Kolkata,West Bengal,Allen Solly Men's Cotton Polo,Fashion,2,1199.0,15.0,2038.3,807.17,UPI,Pending
+ORD-10012,2023-06-17,CUST-0075,Tara Narang,Female,47,New Delhi,Delhi,Philips Digital Air Fryer HD9252,Home & Kitchen,1,8499.0,5.0,8074.05,1951.23,Cash on Delivery,Delivered
+ORD-10368,2023-06-17,CUST-0048,Namrata Joshi,Female,34,Pune,Maharashtra,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,0.0,15499.0,3719.76,UPI,Delivered
+ORD-10345,2023-06-18,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,0.0,14499.0,3189.78,Net Banking,Delivered
+ORD-10773,2023-06-18,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,20.0,2280.0,948.48,Debit Card,Delivered
+ORD-10035,2023-06-19,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,SleepyCat Memory Foam Ortho Mattress,Home & Kitchen,1,13999.0,15.0,11899.15,0.0,Credit Card,Cancelled
+ORD-10620,2023-06-19,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,15.0,594.15,213.89,Debit Card,Delivered
+ORD-10403,2023-06-20,CUST-0077,Ojas Aggarwal,Male,39,Chandigarh,Punjab,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,20.0,87992.0,10676.36,Net Banking,Delivered
+ORD-10472,2023-06-20,CUST-0029,Harish Hegde,Male,40,Mysuru,Karnataka,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,10.0,28710.0,5627.16,Credit Card,Delivered
+ORD-10242,2023-06-21,CUST-0030,Aarti Goswami,Female,29,Ahmedabad,Gujarat,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,1,3295.0,10.0,2965.5,885.7,UPI,Pending
+ORD-10388,2023-06-21,CUST-0045,Mohit Suri,Male,25,Noida,Uttar Pradesh,Apple iPhone 15 (128GB),Electronics,1,74999.0,5.0,71249.05,-4274.94,Credit Card,Returned
+ORD-10662,2023-06-21,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,Ray-Ban Aviator Polarized Sunglasses,Fashion,2,7490.0,5.0,14231.0,5777.79,UPI,Delivered
+ORD-10663,2023-06-21,CUST-0029,Harish Hegde,Male,40,Mysuru,Karnataka,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,10.0,2565.0,1149.12,Debit Card,Delivered
+ORD-10456,2023-06-22,CUST-0014,Kavita Mehra,Female,34,Chandigarh,Punjab,Logitech MX Master 3S Mouse,Electronics,1,8995.0,0.0,8995.0,2518.6,Credit Card,Delivered
+ORD-10657,2023-06-23,CUST-0063,Isha Aggarwal,Female,37,Indore,Madhya Pradesh,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,2,3499.0,5.0,6648.1,1799.42,Credit Card,Pending
+ORD-10058,2023-06-24,CUST-0037,Vivek Chawla,Male,39,New Delhi,Delhi,Levi's 511 Slim Fit Denim,Fashion,1,2899.0,10.0,2609.1,925.36,UPI,Delivered
+ORD-10229,2023-06-25,CUST-0070,Komal Grewal,Female,45,Kolkata,West Bengal,Boat Rockerz 450 Bluetooth Headset,Electronics,3,1499.0,20.0,3597.6,1091.27,Credit Card,Pending
+ORD-10433,2023-06-27,CUST-0037,Vivek Chawla,Male,39,New Delhi,Delhi,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,1,350.0,0.0,350.0,140.0,Credit Card,Delivered
+ORD-10690,2023-06-27,CUST-0063,Isha Aggarwal,Female,37,Indore,Madhya Pradesh,Philips Digital Air Fryer HD9252,Home & Kitchen,1,8499.0,0.0,8499.0,2124.75,UPI,Delivered
+ORD-10694,2023-06-28,CUST-0041,Tarun Sethi,Male,43,Chandigarh,Punjab,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,20.0,2799.2,679.27,Net Banking,Delivered
+ORD-10332,2023-06-29,CUST-0125,Isha Mittal,Female,49,Kolkata,West Bengal,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,1,599.0,0.0,599.0,275.54,UPI,Delivered
+ORD-10458,2023-06-29,CUST-0032,Bhavna Shah,Female,37,Mumbai,Maharashtra,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,1,350.0,5.0,332.5,128.57,UPI,Pending
+ORD-10616,2023-06-29,CUST-0027,Nikhil Chauhan,Male,26,Ludhiana,Punjab,Zara Classic Linen Casual Shirt,Fashion,2,2990.0,20.0,4784.0,1658.45,Credit Card,Delivered
+ORD-10715,2023-06-29,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,2,350.0,15.0,595.0,214.2,UPI,Delivered
+ORD-10016,2023-06-30,CUST-0053,Kabir Singhania,Male,33,Chennai,Tamil Nadu,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,4,350.0,5.0,1330.0,514.27,Cash on Delivery,Delivered
+ORD-10330,2023-06-30,CUST-0006,Sneha Reddy,Female,27,Hyderabad,Telangana,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,20.0,5992.0,2181.09,Cash on Delivery,Delivered
+ORD-10699,2023-06-30,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Allen Solly Men's Cotton Polo,Fashion,1,1199.0,15.0,1019.15,403.58,Cash on Delivery,Delivered
+ORD-10444,2023-07-02,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,SleepyCat Memory Foam Ortho Mattress,Home & Kitchen,1,13999.0,25.0,10499.25,2624.81,UPI,Delivered
+ORD-10763,2023-07-03,CUST-0133,Shruti Desai,Female,27,Bhopal,Madhya Pradesh,Boat Rockerz 450 Bluetooth Headset,Electronics,2,1499.0,10.0,2698.2,881.41,Credit Card,Delivered
+ORD-10597,2023-07-04,CUST-0033,Sameer Khan,Male,30,Hyderabad,Telangana,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,10.0,629.1,234.86,UPI,Delivered
+ORD-10534,2023-07-05,CUST-0016,Sunita Deshmukh,Female,42,Nagpur,Maharashtra,Allen Solly Men's Cotton Polo,Fashion,1,1199.0,10.0,1079.1,443.15,UPI,Pending
+ORD-10759,2023-07-05,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,1,950.0,15.0,807.5,239.83,UPI,Delivered
+ORD-10379,2023-07-07,CUST-0084,Payal Aggarwal,Female,43,Varanasi,Uttar Pradesh,Parker Frontier Matte Black Fountain Pen,Books & Stationery,2,650.0,0.0,1300.0,598.0,Debit Card,Delivered
+ORD-10531,2023-07-10,CUST-0088,Pranav Aggarwal,Male,51,Chennai,Tamil Nadu,Sony WH-1000XM5 ANC Headphones,Electronics,1,26990.0,20.0,21592.0,4116.87,UPI,Delivered
+ORD-10595,2023-07-14,CUST-0029,Harish Hegde,Male,40,Mysuru,Karnataka,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,1,950.0,5.0,902.5,287.9,UPI,Pending
+ORD-10024,2023-07-16,CUST-0037,Vivek Chawla,Male,39,New Delhi,Delhi,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,20.0,9196.0,2948.85,Debit Card,Delivered
+ORD-10190,2023-07-17,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Ray-Ban Aviator Polarized Sunglasses,Fashion,2,7490.0,10.0,13482.0,5284.94,Credit Card,Pending
+ORD-10553,2023-07-17,CUST-0038,Monika Soni,Female,31,Jaipur,Rajasthan,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,2,999.0,0.0,1998.0,839.16,Credit Card,Delivered
+ORD-10590,2023-07-17,CUST-0036,Kajal Tripathi,Female,28,Varanasi,Uttar Pradesh,Levi's 511 Slim Fit Denim,Fashion,1,2899.0,0.0,2899.0,0.0,Net Banking,Cancelled
+ORD-10669,2023-07-17,CUST-0042,Pallavi Shenoy,Female,29,Bengaluru,Karnataka,Apple iPhone 15 (128GB),Electronics,1,74999.0,15.0,63749.15,9179.88,Net Banking,Delivered
+ORD-10025,2023-07-18,CUST-0032,Bhavna Shah,Female,37,Mumbai,Maharashtra,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,5.0,30305.0,6151.91,Credit Card,Delivered
+ORD-10703,2023-07-18,CUST-0024,Tanvi Kulkarni,Female,23,Pune,Maharashtra,Parker Frontier Matte Black Fountain Pen,Books & Stationery,4,650.0,0.0,2600.0,1196.0,UPI,Delivered
+ORD-10490,2023-07-19,CUST-0122,Alok Rastogi,Male,35,New Delhi,Delhi,Mi 360 Home Security Camera 2K,Electronics,1,2999.0,0.0,2999.0,899.7,Credit Card,Delivered
+ORD-10509,2023-07-20,CUST-0013,Amitabh Sen,Male,45,Kolkata,West Bengal,Allen Solly Men's Cotton Polo,Fashion,4,1199.0,0.0,4796.0,2110.24,UPI,Delivered
+ORD-10034,2023-07-22,CUST-0085,Aryan Mittal,Male,24,Kolkata,West Bengal,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,2,599.0,20.0,958.4,382.08,UPI,Delivered
+ORD-10013,2023-07-23,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,Apple iPad Air M2,Electronics,1,54900.0,0.0,54900.0,9333.0,UPI,Delivered
+ORD-10765,2023-07-23,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,10.0,28710.0,5627.16,Cash on Delivery,Delivered
+ORD-10810,2023-07-23,CUST-0145,Isha Trivedi,Female,53,Lucknow,Uttar Pradesh,Kent Grand Plus RO Water Purifier,Home & Kitchen,2,15499.0,0.0,30998.0,7439.52,Credit Card,Delivered
+ORD-10010,2023-07-24,CUST-0041,Tarun Sethi,Male,43,Chandigarh,Punjab,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,0.0,109990.0,15398.6,Credit Card,Delivered
+ORD-10247,2023-07-24,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,25.0,524.25,174.75,Net Banking,Delivered
+ORD-10785,2023-07-24,CUST-0046,Ankita Bose,Female,28,Kolkata,West Bengal,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,15.0,2422.5,1046.52,Debit Card,Delivered
+ORD-10396,2023-07-26,CUST-0017,Arjun Kapoor,Male,31,Mumbai,Maharashtra,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,0.0,15499.0,3719.76,Credit Card,Delivered
+ORD-10282,2023-07-27,CUST-0140,Ojas Patil,Male,35,Ludhiana,Punjab,The Psychology of Money by Morgan Housel,Books & Stationery,3,399.0,5.0,1137.15,417.71,Net Banking,Delivered
+ORD-10431,2023-07-27,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,20.0,11599.2,2211.58,Credit Card,Delivered
+ORD-10591,2023-07-27,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Levi's 511 Slim Fit Denim,Fashion,1,2899.0,10.0,2609.1,0.0,Credit Card,Cancelled
+ORD-10175,2023-07-28,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,The Body Shop British Rose Shower Gel,Beauty & Personal Care,2,795.0,10.0,1431.0,0.0,Debit Card,Cancelled
+ORD-10003,2023-07-31,CUST-0029,Harish Hegde,Male,40,Mysuru,Karnataka,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,3,2850.0,15.0,7267.5,-436.05,UPI,Returned
+ORD-10273,2023-07-31,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,Allen Solly Men's Cotton Polo,Fashion,1,1199.0,5.0,1139.05,484.48,Credit Card,Delivered
+ORD-10232,2023-08-01,CUST-0088,Pranav Aggarwal,Male,51,Chennai,Tamil Nadu,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,2,999.0,20.0,1598.4,581.82,Cash on Delivery,Pending
+ORD-10316,2023-08-01,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,1,3295.0,25.0,2471.25,659.0,UPI,Delivered
+ORD-10536,2023-08-02,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,2,2850.0,5.0,5415.0,0.0,UPI,Cancelled
+ORD-10248,2023-08-03,CUST-0071,Kartik Kaur,Male,25,Gurugram,Haryana,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,2,3295.0,0.0,6590.0,2108.8,Debit Card,Pending
+ORD-10272,2023-08-03,CUST-0041,Tarun Sethi,Male,43,Chandigarh,Punjab,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,2,350.0,25.0,525.0,175.0,Credit Card,Delivered
+ORD-10784,2023-08-03,CUST-0053,Kabir Singhania,Male,33,Chennai,Tamil Nadu,Philips Digital Air Fryer HD9252,Home & Kitchen,2,8499.0,5.0,16148.1,3902.46,UPI,Delivered
+ORD-10451,2023-08-05,CUST-0130,Vidya Subramanian,Female,27,Ahmedabad,Gujarat,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,3,499.0,0.0,1497.0,673.65,UPI,Delivered
+ORD-10469,2023-08-05,CUST-0043,Rohit Khandelwal,Male,32,Indore,Madhya Pradesh,Nike Air Max 270 Sneakers,Fashion,1,8995.0,15.0,7645.75,2201.98,UPI,Delivered
+ORD-10574,2023-08-05,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,5.0,7115.5,2888.89,Credit Card,Delivered
+ORD-10684,2023-08-05,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,2,350.0,20.0,560.0,0.0,Credit Card,Cancelled
+ORD-10019,2023-08-06,CUST-0016,Sunita Deshmukh,Female,42,Nagpur,Maharashtra,Prestige Induction Cooktop 2000W,Home & Kitchen,1,2899.0,15.0,2464.15,620.97,UPI,Delivered
+ORD-10614,2023-08-06,CUST-0066,Aryan Desai,Male,22,Gurugram,Haryana,Apple iPad Air M2,Electronics,1,54900.0,20.0,43920.0,6470.88,Debit Card,Delivered
+ORD-10369,2023-08-08,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,0.0,11495.0,4253.15,UPI,Delivered
+ORD-10706,2023-08-10,CUST-0081,Radhika Singhania,Female,54,Gurugram,Haryana,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,5.0,13774.05,2929.28,Credit Card,Delivered
+ORD-10289,2023-08-11,CUST-0081,Radhika Singhania,Female,54,Gurugram,Haryana,Samsung Galaxy S24 5G,Electronics,1,69999.0,0.0,69999.0,12599.82,Credit Card,Delivered
+ORD-10670,2023-08-11,CUST-0079,Shreya Bhatia,Female,27,Kolkata,West Bengal,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,2,3499.0,0.0,6998.0,1959.44,Credit Card,Delivered
+ORD-10200,2023-08-12,CUST-0001,Aarav Sharma,Male,28,Mumbai,Maharashtra,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,5.0,3324.05,899.71,Credit Card,Delivered
+ORD-10538,2023-08-12,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Apple iPad Air M2,Electronics,1,54900.0,20.0,43920.0,6470.88,UPI,Delivered
+ORD-10436,2023-08-14,CUST-0059,Tara Subramanian,Female,38,Ludhiana,Punjab,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,15.0,6366.5,2406.54,Credit Card,Delivered
+ORD-10497,2023-08-14,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,The Psychology of Money by Morgan Housel,Books & Stationery,3,399.0,10.0,1077.3,-64.64,Credit Card,Returned
+ORD-10688,2023-08-14,CUST-0065,Nandini Rastogi,Female,55,Coimbatore,Tamil Nadu,Apple iPad Air M2,Electronics,1,54900.0,10.0,49410.0,7839.72,Cash on Delivery,Delivered
+ORD-10437,2023-08-15,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,5.0,10920.25,3905.81,Net Banking,Delivered
+ORD-10253,2023-08-16,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,Nivia Storm Football Size 5,Sports & Fitness,2,699.0,20.0,1118.4,387.71,Credit Card,Delivered
+ORD-10320,2023-08-16,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Nike Air Max 270 Sneakers,Fashion,2,8995.0,5.0,17090.5,5286.66,Net Banking,Delivered
+ORD-10415,2023-08-16,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Logitech MX Master 3S Mouse,Electronics,1,8995.0,20.0,7196.0,-431.76,UPI,Returned
+ORD-10125,2023-08-18,CUST-0133,Shruti Desai,Female,27,Bhopal,Madhya Pradesh,Logitech MX Master 3S Mouse,Electronics,3,8995.0,25.0,20238.75,4722.38,UPI,Delivered
+ORD-10809,2023-08-18,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,Apple iPhone 15 (128GB),Electronics,1,74999.0,15.0,63749.15,9179.88,Credit Card,Delivered
+ORD-10717,2023-08-19,CUST-0024,Tanvi Kulkarni,Female,23,Pune,Maharashtra,Prestige Induction Cooktop 2000W,Home & Kitchen,2,2899.0,15.0,4928.3,1241.93,UPI,Delivered
+ORD-10183,2023-08-20,CUST-0017,Arjun Kapoor,Male,31,Mumbai,Maharashtra,The Psychology of Money by Morgan Housel,Books & Stationery,1,399.0,10.0,359.1,127.36,Credit Card,Delivered
+ORD-10524,2023-08-21,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Boat Rockerz 450 Bluetooth Headset,Electronics,1,1499.0,10.0,1349.1,440.71,UPI,Delivered
+ORD-10564,2023-08-21,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,3,350.0,20.0,840.0,291.2,UPI,Pending
+ORD-10725,2023-08-21,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,3,3295.0,25.0,7413.75,1977.0,UPI,Pending
+ORD-10362,2023-08-22,CUST-0098,Rhea Bhattacharya,Female,36,Gurugram,Haryana,Zara Classic Linen Casual Shirt,Fashion,3,2990.0,10.0,8073.0,3013.92,UPI,Pending
+ORD-10516,2023-08-22,CUST-0011,Karan Malhotra,Male,38,Noida,Uttar Pradesh,Prestige Induction Cooktop 2000W,Home & Kitchen,2,2899.0,20.0,4638.4,1125.59,Credit Card,Delivered
+ORD-10059,2023-08-26,CUST-0104,Chetan Singhania,Male,56,Chennai,Tamil Nadu,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,1,499.0,5.0,474.05,206.21,Cash on Delivery,Delivered
+ORD-10284,2023-08-28,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,1,499.0,0.0,499.0,224.55,Credit Card,Delivered
+ORD-10500,2023-08-29,CUST-0038,Monika Soni,Female,31,Jaipur,Rajasthan,The Psychology of Money by Morgan Housel,Books & Stationery,3,399.0,0.0,1197.0,454.86,Cash on Delivery,Delivered
+ORD-10518,2023-08-29,CUST-0024,Tanvi Kulkarni,Female,23,Pune,Maharashtra,Parker Frontier Matte Black Fountain Pen,Books & Stationery,3,650.0,20.0,1560.0,621.92,UPI,Delivered
+ORD-10104,2023-08-30,CUST-0035,Abhishek Das,Male,34,Kolkata,West Bengal,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,5.0,104490.5,14141.05,Credit Card,Delivered
+ORD-10794,2023-08-30,CUST-0103,Ojas Trivedi,Male,24,Kochi,Kerala,Mi 360 Home Security Camera 2K,Electronics,3,2999.0,15.0,7647.45,2064.81,Credit Card,Delivered
+ORD-10802,2023-08-30,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,2,31900.0,0.0,63800.0,0.0,Credit Card,Cancelled
+ORD-10311,2023-09-01,CUST-0017,Arjun Kapoor,Male,31,Mumbai,Maharashtra,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,3,2850.0,0.0,8550.0,4104.0,UPI,Delivered
+ORD-10120,2023-09-02,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,3,950.0,0.0,2850.0,940.5,Net Banking,Delivered
+ORD-10710,2023-09-02,CUST-0010,Neha Gupta,Female,26,New Delhi,Delhi,Atomic Habits by James Clear,Books & Stationery,1,499.0,20.0,399.2,124.55,Debit Card,Delivered
+ORD-10292,2023-09-03,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,10.0,2565.0,1149.12,UPI,Delivered
+ORD-10233,2023-09-04,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,15.0,12324.15,2440.18,Debit Card,Delivered
+ORD-10709,2023-09-04,CUST-0016,Sunita Deshmukh,Female,42,Nagpur,Maharashtra,Mi 360 Home Security Camera 2K,Electronics,2,2999.0,20.0,4798.4,1247.58,Net Banking,Delivered
+ORD-10788,2023-09-04,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,5.0,10920.25,3905.81,UPI,Pending
+ORD-10367,2023-09-05,CUST-0089,Isha Patil,Female,50,Gurugram,Haryana,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,2,950.0,0.0,1900.0,-114.0,Credit Card,Returned
+ORD-10174,2023-09-06,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Samsung Galaxy S24 5G,Electronics,1,69999.0,0.0,69999.0,12599.82,UPI,Delivered
+ORD-10686,2023-09-06,CUST-0091,Shreya Desai,Female,23,Chandigarh,Punjab,The Psychology of Money by Morgan Housel,Books & Stationery,1,399.0,20.0,319.2,105.12,UPI,Delivered
+ORD-10018,2023-09-07,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,The Body Shop British Rose Shower Gel,Beauty & Personal Care,2,795.0,10.0,1431.0,587.66,Credit Card,Delivered
+ORD-10439,2023-09-07,CUST-0065,Nandini Rastogi,Female,55,Coimbatore,Tamil Nadu,Logitech MX Master 3S Mouse,Electronics,1,8995.0,25.0,6746.25,-404.77,UPI,Returned
+ORD-10207,2023-09-08,CUST-0029,Harish Hegde,Male,40,Mysuru,Karnataka,Atomic Habits by James Clear,Books & Stationery,1,499.0,0.0,499.0,179.64,Debit Card,Delivered
+ORD-10629,2023-09-08,CUST-0062,Shreya Aggarwal,Female,43,New Delhi,Delhi,Levi's 511 Slim Fit Denim,Fashion,1,2899.0,5.0,2754.05,1011.65,UPI,Delivered
+ORD-10220,2023-09-09,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,The Body Shop British Rose Shower Gel,Beauty & Personal Care,2,795.0,20.0,1272.0,485.06,Debit Card,Delivered
+ORD-10309,2023-09-09,CUST-0060,Mayank Singhania,Male,22,Chandigarh,Punjab,Levi's 511 Slim Fit Denim,Fashion,3,2899.0,0.0,8697.0,3304.86,UPI,Delivered
+ORD-10592,2023-09-10,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,2,2850.0,15.0,4845.0,2093.04,UPI,Delivered
+ORD-10826,2023-09-10,CUST-0003,Rahul Verma,Male,24,Bengaluru,Karnataka,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,1,499.0,5.0,474.05,206.21,Debit Card,Delivered
+ORD-10161,2023-09-11,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Levi's 511 Slim Fit Denim,Fashion,1,2899.0,10.0,2609.1,0.0,UPI,Cancelled
+ORD-10498,2023-09-12,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,Philips Digital Air Fryer HD9252,Home & Kitchen,1,8499.0,20.0,6799.2,1473.16,UPI,Pending
+ORD-10795,2023-09-15,CUST-0059,Tara Subramanian,Female,38,Ludhiana,Punjab,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,1,599.0,0.0,599.0,275.54,UPI,Pending
+ORD-10800,2023-09-17,CUST-0116,Rhea Bhatia,Female,41,Gurugram,Haryana,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,20.0,11599.2,2211.58,Debit Card,Delivered
+ORD-10417,2023-09-18,CUST-0032,Bhavna Shah,Female,37,Mumbai,Maharashtra,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,25.0,749.25,262.24,Credit Card,Delivered
+ORD-10434,2023-09-19,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,Logitech MX Master 3S Mouse,Electronics,1,8995.0,0.0,8995.0,2518.6,Cash on Delivery,Delivered
+ORD-10743,2023-09-22,CUST-0053,Kabir Singhania,Male,33,Chennai,Tamil Nadu,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,4,1799.0,25.0,5397.0,1888.95,Credit Card,Delivered
+ORD-10321,2023-09-23,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,Apple iPhone 15 (128GB),Electronics,1,74999.0,0.0,74999.0,11999.84,Credit Card,Delivered
+ORD-10376,2023-09-23,CUST-0044,Archana Pillai,Female,36,Coimbatore,Tamil Nadu,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,0.0,2850.0,1368.0,Net Banking,Delivered
+ORD-10506,2023-09-23,CUST-0020,Meera Nambiar,Female,39,Thiruvananthapuram,Kerala,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,5.0,7115.5,2888.89,Credit Card,Delivered
+ORD-10744,2023-09-23,CUST-0080,Kabir Mittal,Male,56,Bengaluru,Karnataka,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,5.0,7115.5,2888.89,Debit Card,Delivered
+ORD-10842,2023-09-23,CUST-0020,Meera Nambiar,Female,39,Thiruvananthapuram,Kerala,Atomic Habits by James Clear,Books & Stationery,1,499.0,0.0,499.0,179.64,UPI,Delivered
+ORD-10219,2023-09-25,CUST-0027,Nikhil Chauhan,Male,26,Ludhiana,Punjab,Nivia Storm Football Size 5,Sports & Fitness,2,699.0,10.0,1258.2,469.73,UPI,Delivered
+ORD-10660,2023-09-25,CUST-0006,Sneha Reddy,Female,27,Hyderabad,Telangana,The Psychology of Money by Morgan Housel,Books & Stationery,2,399.0,25.0,598.5,189.53,UPI,Delivered
+ORD-10821,2023-09-28,CUST-0074,Harshit Chopra,Male,27,Ludhiana,Punjab,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,0.0,2390.0,812.6,Net Banking,Delivered
+ORD-10023,2023-10-05,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Levi's 511 Slim Fit Denim,Fashion,2,2899.0,5.0,5508.1,2023.31,Credit Card,Delivered
+ORD-10182,2023-10-05,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Parker Frontier Matte Black Fountain Pen,Books & Stationery,1,650.0,15.0,552.5,228.74,UPI,Delivered
+ORD-10666,2023-10-07,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,Philips Digital Air Fryer HD9252,Home & Kitchen,1,8499.0,15.0,7224.15,1625.43,Debit Card,Delivered
+ORD-10745,2023-10-07,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Parker Frontier Matte Black Fountain Pen,Books & Stationery,1,650.0,5.0,617.5,274.58,Net Banking,Delivered
+ORD-10825,2023-10-07,CUST-0078,Suraj Patil,Male,30,Jaipur,Rajasthan,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,1,350.0,0.0,350.0,140.0,Credit Card,Delivered
+ORD-10225,2023-10-09,CUST-0017,Arjun Kapoor,Male,31,Mumbai,Maharashtra,Philips Digital Air Fryer HD9252,Home & Kitchen,1,8499.0,20.0,6799.2,1473.16,Debit Card,Delivered
+ORD-10609,2023-10-09,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,The Body Shop British Rose Shower Gel,Beauty & Personal Care,1,795.0,0.0,795.0,349.8,UPI,Delivered
+ORD-10672,2023-10-11,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Parker Frontier Matte Black Fountain Pen,Books & Stationery,1,650.0,25.0,487.5,186.88,Debit Card,Delivered
+ORD-10756,2023-10-12,CUST-0024,Tanvi Kulkarni,Female,23,Pune,Maharashtra,Prestige Induction Cooktop 2000W,Home & Kitchen,1,2899.0,15.0,2464.15,620.97,Credit Card,Pending
+ORD-10121,2023-10-16,CUST-0145,Isha Trivedi,Female,53,Lucknow,Uttar Pradesh,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,0.0,699.0,279.6,Debit Card,Pending
+ORD-10307,2023-10-17,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Prestige Induction Cooktop 2000W,Home & Kitchen,1,2899.0,10.0,2609.1,681.84,UPI,Delivered
+ORD-10123,2023-10-19,CUST-0033,Sameer Khan,Male,30,Hyderabad,Telangana,Zara Classic Linen Casual Shirt,Fashion,1,2990.0,15.0,2541.5,914.94,Credit Card,Delivered
+ORD-10185,2023-10-20,CUST-0127,Radhika Singhania,Female,37,Kolkata,West Bengal,Apple iPad Air M2,Electronics,1,54900.0,15.0,46665.0,7139.75,Cash on Delivery,Delivered
+ORD-10063,2023-10-21,CUST-0149,Mayank Desai,Male,50,Kanpur,Uttar Pradesh,Ray-Ban Aviator Polarized Sunglasses,Fashion,2,7490.0,0.0,14980.0,6291.6,Credit Card,Delivered
+ORD-10126,2023-10-21,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,3,499.0,25.0,1122.75,421.03,Credit Card,Delivered
+ORD-10128,2023-10-23,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Apple iPhone 15 (128GB),Electronics,1,74999.0,0.0,74999.0,11999.84,Debit Card,Delivered
+ORD-10179,2023-10-23,CUST-0124,Pranav Trivedi,Male,26,Ahmedabad,Gujarat,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,1,1799.0,5.0,1709.05,693.87,Net Banking,Delivered
+ORD-10187,2023-10-24,CUST-0081,Radhika Singhania,Female,54,Gurugram,Haryana,Sony WH-1000XM5 ANC Headphones,Electronics,1,26990.0,0.0,26990.0,0.0,UPI,Cancelled
+ORD-10656,2023-10-24,CUST-0123,Rhea Trivedi,Female,41,Gurugram,Haryana,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,2,350.0,20.0,560.0,194.13,UPI,Pending
+ORD-10274,2023-10-27,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,SleepyCat Memory Foam Ortho Mattress,Home & Kitchen,2,13999.0,20.0,22398.4,5823.58,UPI,Pending
+ORD-10719,2023-10-27,CUST-0083,Isha Rastogi,Female,54,Gurugram,Haryana,Kent Grand Plus RO Water Purifier,Home & Kitchen,2,15499.0,25.0,23248.5,-1394.91,Cash on Delivery,Returned
+ORD-10135,2023-10-28,CUST-0090,Dev Singhania,Male,47,Kolkata,West Bengal,Levi's 511 Slim Fit Denim,Fashion,1,2899.0,5.0,2754.05,1011.65,Net Banking,Delivered
+ORD-10449,2023-11-02,CUST-0104,Chetan Singhania,Male,56,Chennai,Tamil Nadu,Parker Frontier Matte Black Fountain Pen,Books & Stationery,4,650.0,0.0,2600.0,1196.0,Credit Card,Delivered
+ORD-10287,2023-11-03,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,Fossil Minimalist Chronograph Watch,Fashion,2,11495.0,0.0,22990.0,8506.3,Credit Card,Delivered
+ORD-10608,2023-11-03,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,2,599.0,25.0,898.5,344.43,UPI,Delivered
+ORD-10695,2023-11-05,CUST-0076,Mayank Rastogi,Male,36,Jaipur,Rajasthan,Mi 360 Home Security Camera 2K,Electronics,1,2999.0,0.0,2999.0,-179.94,Net Banking,Returned
+ORD-10747,2023-11-05,CUST-0077,Ojas Aggarwal,Male,39,Chandigarh,Punjab,Parker Frontier Matte Black Fountain Pen,Books & Stationery,1,650.0,15.0,552.5,228.74,UPI,Delivered
+ORD-10061,2023-11-06,CUST-0055,Vidya Narang,Female,20,Gurugram,Haryana,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,10.0,2565.0,1149.12,Credit Card,Delivered
+ORD-10622,2023-11-06,CUST-0017,Arjun Kapoor,Male,31,Mumbai,Maharashtra,Philips Digital Air Fryer HD9252,Home & Kitchen,2,8499.0,0.0,16998.0,4249.5,UPI,Delivered
+ORD-10637,2023-11-06,CUST-0076,Mayank Rastogi,Male,36,Jaipur,Rajasthan,The Body Shop British Rose Shower Gel,Beauty & Personal Care,1,795.0,15.0,675.75,267.6,UPI,Delivered
+ORD-10107,2023-11-07,CUST-0066,Aryan Desai,Male,22,Gurugram,Haryana,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,0.0,3499.0,979.72,Credit Card,Delivered
+ORD-10193,2023-11-11,CUST-0055,Vidya Narang,Female,20,Gurugram,Haryana,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,3,350.0,20.0,840.0,291.2,Debit Card,Pending
+ORD-10349,2023-11-12,CUST-0033,Sameer Khan,Male,30,Hyderabad,Telangana,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,2,2850.0,5.0,5415.0,2512.56,Credit Card,Delivered
+ORD-10799,2023-11-12,CUST-0078,Suraj Patil,Male,30,Jaipur,Rajasthan,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,2,3499.0,20.0,5598.4,1358.55,UPI,Pending
+ORD-10299,2023-11-13,CUST-0029,Harish Hegde,Male,40,Mysuru,Karnataka,The Psychology of Money by Morgan Housel,Books & Stationery,1,399.0,20.0,319.2,105.12,UPI,Delivered
+ORD-10584,2023-11-13,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,25.0,749.25,262.24,Net Banking,Delivered
+ORD-10625,2023-11-15,CUST-0026,Ishita Roy,Female,30,Kolkata,West Bengal,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,3,350.0,5.0,997.5,385.7,UPI,Delivered
+ORD-10626,2023-11-16,CUST-0068,Harshit Kaur,Male,45,Ludhiana,Punjab,Kent Grand Plus RO Water Purifier,Home & Kitchen,2,15499.0,5.0,29448.1,6831.96,UPI,Delivered
+ORD-10100,2023-11-17,CUST-0030,Aarti Goswami,Female,29,Ahmedabad,Gujarat,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,10.0,13049.1,2679.42,UPI,Delivered
+ORD-10263,2023-11-17,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,Philips Digital Air Fryer HD9252,Home & Kitchen,1,8499.0,20.0,6799.2,1473.16,UPI,Delivered
+ORD-10400,2023-11-17,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Samsung Galaxy S24 5G,Electronics,1,69999.0,25.0,52499.25,7874.89,UPI,Delivered
+ORD-10423,2023-11-18,CUST-0061,Tara Desai,Female,34,Mysuru,Karnataka,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,15.0,849.15,320.98,Debit Card,Delivered
+ORD-10499,2023-11-18,CUST-0146,Alok Desai,Male,27,Noida,Uttar Pradesh,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,20.0,1912.0,563.4,Cash on Delivery,Delivered
+ORD-10793,2023-11-18,CUST-0096,Dev Rastogi,Male,35,New Delhi,Delhi,OnePlus Nord CE 3 Lite 5G,Electronics,2,18499.0,20.0,29598.4,5130.39,UPI,Delivered
+ORD-10290,2023-11-19,CUST-0014,Kavita Mehra,Female,34,Chandigarh,Punjab,Zara Classic Linen Casual Shirt,Fashion,1,2990.0,0.0,2990.0,1196.0,Credit Card,Delivered
+ORD-10611,2023-11-21,CUST-0020,Meera Nambiar,Female,39,Thiruvananthapuram,Kerala,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,0.0,699.0,279.6,Credit Card,Delivered
+ORD-10643,2023-11-21,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Parker Frontier Matte Black Fountain Pen,Books & Stationery,3,650.0,10.0,1755.0,753.48,Cash on Delivery,Delivered
+ORD-10565,2023-11-23,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Zara Classic Linen Casual Shirt,Fashion,1,2990.0,0.0,2990.0,1196.0,Credit Card,Delivered
+ORD-10586,2023-11-23,CUST-0001,Aarav Sharma,Male,28,Mumbai,Maharashtra,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,20.0,2280.0,0.0,Cash on Delivery,Cancelled
+ORD-10139,2023-11-25,CUST-0010,Neha Gupta,Female,26,New Delhi,Delhi,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,10.0,13949.1,3124.6,Credit Card,Delivered
+ORD-10209,2023-11-25,CUST-0078,Suraj Patil,Male,30,Jaipur,Rajasthan,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,10.0,10345.5,3572.65,UPI,Delivered
+ORD-10245,2023-11-25,CUST-0045,Mohit Suri,Male,25,Noida,Uttar Pradesh,The Psychology of Money by Morgan Housel,Books & Stationery,2,399.0,0.0,798.0,-47.88,Net Banking,Returned
+ORD-10441,2023-11-25,CUST-0110,Suraj Narang,Male,30,Kanpur,Uttar Pradesh,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,25.0,82492.5,9624.13,UPI,Delivered
+ORD-10421,2023-11-26,CUST-0064,Kartik Chopra,Male,35,New Delhi,Delhi,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,3,2850.0,20.0,6840.0,2845.44,UPI,Pending
+ORD-10544,2023-11-28,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,SleepyCat Memory Foam Ortho Mattress,Home & Kitchen,2,13999.0,15.0,23798.3,6425.54,Credit Card,Delivered
+ORD-10240,2023-11-29,CUST-0076,Mayank Rastogi,Male,36,Jaipur,Rajasthan,Sony WH-1000XM5 ANC Headphones,Electronics,1,26990.0,25.0,20242.5,3711.13,Cash on Delivery,Delivered
+ORD-10689,2023-11-29,CUST-0051,Kabir Chopra,Male,37,Chennai,Tamil Nadu,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,2,350.0,5.0,665.0,257.13,Debit Card,Pending
+ORD-10829,2023-11-29,CUST-0054,Mayank Aggarwal,Male,54,Ahmedabad,Gujarat,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,1,350.0,25.0,262.5,87.5,Credit Card,Delivered
+ORD-10008,2023-12-01,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,2,3295.0,25.0,4942.5,1318.0,Cash on Delivery,Delivered
+ORD-10162,2023-12-02,CUST-0106,Isha Aggarwal,Female,40,Coimbatore,Tamil Nadu,Parker Frontier Matte Black Fountain Pen,Books & Stationery,1,650.0,0.0,650.0,299.0,Credit Card,Delivered
+ORD-10707,2023-12-02,CUST-0117,Kiara Chopra,Female,48,Jaipur,Rajasthan,Ray-Ban Aviator Polarized Sunglasses,Fashion,3,7490.0,15.0,19099.5,0.0,UPI,Cancelled
+ORD-10761,2023-12-02,CUST-0031,Varun Menon,Male,32,Kochi,Kerala,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,1,3295.0,20.0,2636.0,731.05,Net Banking,Delivered
+ORD-10401,2023-12-03,CUST-0107,Kiara Aggarwal,Female,39,Kanpur,Uttar Pradesh,The Body Shop British Rose Shower Gel,Beauty & Personal Care,1,795.0,20.0,636.0,242.53,Debit Card,Delivered
+ORD-10192,2023-12-04,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,1,350.0,20.0,280.0,97.07,UPI,Delivered
+ORD-10189,2023-12-05,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,1,499.0,0.0,499.0,224.55,UPI,Delivered
+ORD-10213,2023-12-05,CUST-0007,Vikram Singh,Male,41,Jaipur,Rajasthan,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,1,3295.0,20.0,2636.0,731.05,UPI,Pending
+ORD-10397,2023-12-05,CUST-0016,Sunita Deshmukh,Female,42,Nagpur,Maharashtra,Samsung Galaxy S24 5G,Electronics,1,69999.0,0.0,69999.0,12599.82,Credit Card,Pending
+ORD-10322,2023-12-06,CUST-0031,Varun Menon,Male,32,Kochi,Kerala,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,1,599.0,15.0,509.15,210.79,Debit Card,Delivered
+ORD-10414,2023-12-06,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Nivia Storm Football Size 5,Sports & Fitness,2,699.0,20.0,1118.4,387.71,Credit Card,Delivered
+ORD-10606,2023-12-06,CUST-0124,Pranav Trivedi,Male,26,Ahmedabad,Gujarat,Samsung Galaxy S24 5G,Electronics,1,69999.0,10.0,62999.1,-3779.95,UPI,Returned
+ORD-10619,2023-12-06,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Philips Digital Air Fryer HD9252,Home & Kitchen,3,8499.0,5.0,24222.15,5853.69,UPI,Pending
+ORD-10113,2023-12-08,CUST-0105,Chetan Aggarwal,Male,57,Thiruvananthapuram,Kerala,The Psychology of Money by Morgan Housel,Books & Stationery,3,399.0,5.0,1137.15,-68.23,Debit Card,Returned
+ORD-10738,2023-12-10,CUST-0017,Arjun Kapoor,Male,31,Mumbai,Maharashtra,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,10.0,13049.1,2679.42,UPI,Delivered
+ORD-10156,2023-12-12,CUST-0064,Kartik Chopra,Male,35,New Delhi,Delhi,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,2,3499.0,0.0,6998.0,1959.44,Net Banking,Delivered
+ORD-10280,2023-12-12,CUST-0010,Neha Gupta,Female,26,New Delhi,Delhi,Ray-Ban Aviator Polarized Sunglasses,Fashion,2,7490.0,25.0,11235.0,3932.25,Debit Card,Delivered
+ORD-10389,2023-12-12,CUST-0059,Tara Subramanian,Female,38,Ludhiana,Punjab,The Psychology of Money by Morgan Housel,Books & Stationery,1,399.0,10.0,359.1,127.36,UPI,Delivered
+ORD-10067,2023-12-13,CUST-0123,Rhea Trivedi,Female,41,Gurugram,Haryana,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,1,599.0,0.0,599.0,0.0,Debit Card,Cancelled
+ORD-10418,2023-12-13,CUST-0071,Kartik Kaur,Male,25,Gurugram,Haryana,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,3,599.0,25.0,1347.75,516.64,UPI,Delivered
+ORD-10819,2023-12-14,CUST-0016,Sunita Deshmukh,Female,42,Nagpur,Maharashtra,Levi's 511 Slim Fit Denim,Fashion,1,2899.0,15.0,2464.15,842.74,UPI,Delivered
+ORD-10638,2023-12-15,CUST-0030,Aarti Goswami,Female,29,Ahmedabad,Gujarat,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,1,350.0,10.0,315.0,117.6,UPI,Delivered
+ORD-10680,2023-12-15,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,1,3295.0,0.0,3295.0,1054.4,Net Banking,Delivered
+ORD-10110,2023-12-18,CUST-0077,Ojas Aggarwal,Male,39,Chandigarh,Punjab,Mi 360 Home Security Camera 2K,Electronics,1,2999.0,0.0,2999.0,899.7,Credit Card,Delivered
+ORD-10257,2023-12-18,CUST-0027,Nikhil Chauhan,Male,26,Ludhiana,Punjab,The Psychology of Money by Morgan Housel,Books & Stationery,3,399.0,20.0,957.6,315.37,UPI,Delivered
+ORD-10205,2023-12-21,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,0.0,11495.0,4253.15,UPI,Pending
+ORD-10493,2023-12-23,CUST-0063,Isha Aggarwal,Female,37,Indore,Madhya Pradesh,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,0.0,31900.0,6699.0,UPI,Delivered
+ORD-10342,2023-12-26,CUST-0050,Geeta Madhavan,Female,41,Chennai,Tamil Nadu,Boat Rockerz 450 Bluetooth Headset,Electronics,2,1499.0,15.0,2548.3,802.71,Debit Card,Delivered
+ORD-10331,2023-12-27,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,2,999.0,0.0,1998.0,839.16,Debit Card,Pending
+ORD-10580,2023-12-30,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,0.0,7490.0,3145.8,Cash on Delivery,Delivered
+ORD-10839,2023-12-30,CUST-0042,Pallavi Shenoy,Female,29,Bengaluru,Karnataka,Mi 360 Home Security Camera 2K,Electronics,1,2999.0,20.0,2399.2,623.79,UPI,Delivered
+ORD-10464,2024-01-03,CUST-0147,Shruti Subramanian,Female,55,Thiruvananthapuram,Kerala,Apple iPad Air M2,Electronics,1,54900.0,25.0,41175.0,5833.13,UPI,Delivered
+ORD-10679,2024-01-03,CUST-0085,Aryan Mittal,Male,24,Kolkata,West Bengal,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,0.0,15499.0,3719.76,Net Banking,Delivered
+ORD-10833,2024-01-03,CUST-0102,Anushka Rastogi,Female,53,New Delhi,Delhi,Atomic Habits by James Clear,Books & Stationery,3,499.0,15.0,1272.45,412.27,Credit Card,Delivered
+ORD-10251,2024-01-04,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,2,350.0,0.0,700.0,280.0,UPI,Delivered
+ORD-10512,2024-01-04,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,Nivia Storm Football Size 5,Sports & Fitness,3,699.0,5.0,1992.15,770.3,UPI,Delivered
+ORD-10283,2024-01-05,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,Philips Digital Air Fryer HD9252,Home & Kitchen,1,8499.0,20.0,6799.2,1473.16,UPI,Delivered
+ORD-10293,2024-01-05,CUST-0087,Dev Rastogi,Male,22,Kolkata,West Bengal,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,25.0,23925.0,4186.88,UPI,Delivered
+ORD-10366,2024-01-05,CUST-0084,Payal Aggarwal,Female,43,Varanasi,Uttar Pradesh,The Psychology of Money by Morgan Housel,Books & Stationery,1,399.0,25.0,299.25,94.76,UPI,Delivered
+ORD-10844,2024-01-05,CUST-0065,Nandini Rastogi,Female,55,Coimbatore,Tamil Nadu,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,3,1799.0,0.0,5397.0,2266.74,UPI,Delivered
+ORD-10482,2024-01-06,CUST-0052,Mayank Singhania,Male,54,Mysuru,Karnataka,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,10.0,98991.0,12934.82,UPI,Delivered
+ORD-10517,2024-01-07,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,2,350.0,10.0,630.0,235.2,UPI,Delivered
+ORD-10065,2024-01-09,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,The Psychology of Money by Morgan Housel,Books & Stationery,1,399.0,5.0,379.05,139.24,UPI,Delivered
+ORD-10119,2024-01-09,CUST-0014,Kavita Mehra,Female,34,Chandigarh,Punjab,The Psychology of Money by Morgan Housel,Books & Stationery,4,399.0,15.0,1356.6,463.96,Debit Card,Delivered
+ORD-10066,2024-01-10,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Nivia Storm Football Size 5,Sports & Fitness,3,699.0,25.0,1572.75,524.25,Cash on Delivery,Delivered
+ORD-10461,2024-01-10,CUST-0035,Abhishek Das,Male,34,Kolkata,West Bengal,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,3,649.0,15.0,1654.95,625.57,UPI,Delivered
+ORD-10467,2024-01-10,CUST-0013,Amitabh Sen,Male,45,Kolkata,West Bengal,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,10.0,3149.1,-188.95,UPI,Returned
+ORD-10144,2024-01-11,CUST-0059,Tara Subramanian,Female,38,Ludhiana,Punjab,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,1,3295.0,0.0,3295.0,-197.7,UPI,Returned
+ORD-10391,2024-01-11,CUST-0033,Sameer Khan,Male,30,Hyderabad,Telangana,Atomic Habits by James Clear,Books & Stationery,1,499.0,20.0,399.2,124.55,Credit Card,Delivered
+ORD-10137,2024-01-12,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,2,2850.0,10.0,5130.0,2298.24,UPI,Delivered
+ORD-10194,2024-01-12,CUST-0044,Archana Pillai,Female,36,Coimbatore,Tamil Nadu,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,0.0,999.0,419.58,Credit Card,Delivered
+ORD-10811,2024-01-12,CUST-0003,Rahul Verma,Male,24,Bengaluru,Karnataka,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,20.0,5992.0,2181.09,Debit Card,Delivered
+ORD-10022,2024-01-13,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,The Body Shop British Rose Shower Gel,Beauty & Personal Care,2,795.0,10.0,1431.0,-85.86,Credit Card,Returned
+ORD-10350,2024-01-14,CUST-0013,Amitabh Sen,Male,45,Kolkata,West Bengal,Puma Classic Tracksuit,Fashion,1,3799.0,10.0,3419.1,1148.82,UPI,Delivered
+ORD-10074,2024-01-15,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,Puma Classic Tracksuit,Fashion,1,3799.0,0.0,3799.0,1367.64,UPI,Pending
+ORD-10380,2024-01-16,CUST-0011,Karan Malhotra,Male,38,Noida,Uttar Pradesh,SleepyCat Memory Foam Ortho Mattress,Home & Kitchen,1,13999.0,25.0,10499.25,2624.81,UPI,Delivered
+ORD-10540,2024-01-16,CUST-0035,Abhishek Das,Male,34,Kolkata,West Bengal,Apple iPad Air M2,Electronics,1,54900.0,0.0,54900.0,9333.0,Debit Card,Delivered
+ORD-10556,2024-01-16,CUST-0011,Karan Malhotra,Male,38,Noida,Uttar Pradesh,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,1,499.0,20.0,399.2,155.69,UPI,Delivered
+ORD-10361,2024-01-17,CUST-0043,Rohit Khandelwal,Male,32,Indore,Madhya Pradesh,Logitech MX Master 3S Mouse,Electronics,2,8995.0,5.0,17090.5,4625.83,Cash on Delivery,Delivered
+ORD-10748,2024-01-17,CUST-0010,Neha Gupta,Female,26,New Delhi,Delhi,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,0.0,2850.0,1368.0,UPI,Delivered
+ORD-10224,2024-01-18,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Boat Rockerz 450 Bluetooth Headset,Electronics,2,1499.0,0.0,2998.0,1049.3,Credit Card,Delivered
+ORD-10335,2024-01-18,CUST-0095,Sanya Desai,Female,55,Bengaluru,Karnataka,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,2,1799.0,5.0,3418.1,1387.75,UPI,Delivered
+ORD-10827,2024-01-18,CUST-0051,Kabir Chopra,Male,37,Chennai,Tamil Nadu,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,2,3499.0,0.0,6998.0,1959.44,Credit Card,Delivered
+ORD-10202,2024-01-19,CUST-0052,Mayank Singhania,Male,54,Mysuru,Karnataka,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,2,2850.0,10.0,5130.0,2298.24,Debit Card,Delivered
+ORD-10236,2024-01-20,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,2,649.0,20.0,1038.4,377.98,Debit Card,Delivered
+ORD-10094,2024-01-21,CUST-0039,Akash Bansal,Male,27,Gurugram,Haryana,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,5.0,2707.5,1256.28,UPI,Delivered
+ORD-10575,2024-01-21,CUST-0088,Pranav Aggarwal,Male,51,Chennai,Tamil Nadu,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,0.0,699.0,279.6,UPI,Delivered
+ORD-10772,2024-01-21,CUST-0080,Kabir Mittal,Male,56,Bengaluru,Karnataka,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,0.0,2850.0,1368.0,Cash on Delivery,Delivered
+ORD-10780,2024-01-22,CUST-0011,Karan Malhotra,Male,38,Noida,Uttar Pradesh,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,0.0,14499.0,3189.78,UPI,Pending
+ORD-10641,2024-01-24,CUST-0078,Suraj Patil,Male,30,Jaipur,Rajasthan,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,2,950.0,0.0,1900.0,627.0,Debit Card,Delivered
+ORD-10030,2024-01-25,CUST-0017,Arjun Kapoor,Male,31,Mumbai,Maharashtra,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,15.0,2422.5,-145.35,UPI,Returned
+ORD-10217,2024-01-25,CUST-0010,Neha Gupta,Female,26,New Delhi,Delhi,The Body Shop British Rose Shower Gel,Beauty & Personal Care,2,795.0,5.0,1510.5,642.47,Credit Card,Delivered
+ORD-10244,2024-01-25,CUST-0020,Meera Nambiar,Female,39,Thiruvananthapuram,Kerala,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,1,950.0,25.0,712.5,195.94,Credit Card,Pending
+ORD-10051,2024-01-26,CUST-0077,Ojas Aggarwal,Male,39,Chandigarh,Punjab,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,2,499.0,20.0,798.4,-47.9,Credit Card,Returned
+ORD-10069,2024-01-26,CUST-0063,Isha Aggarwal,Female,37,Indore,Madhya Pradesh,Parker Frontier Matte Black Fountain Pen,Books & Stationery,1,650.0,0.0,650.0,299.0,Credit Card,Delivered
+ORD-10084,2024-01-26,CUST-0046,Ankita Bose,Female,28,Kolkata,West Bengal,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,15.0,594.15,213.89,UPI,Delivered
+ORD-10430,2024-01-26,CUST-0085,Aryan Mittal,Male,24,Kolkata,West Bengal,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,3,2850.0,20.0,6840.0,2845.44,Credit Card,Delivered
+ORD-10479,2024-01-26,CUST-0147,Shruti Subramanian,Female,55,Thiruvananthapuram,Kerala,SleepyCat Memory Foam Ortho Mattress,Home & Kitchen,1,13999.0,25.0,10499.25,2624.81,Credit Card,Pending
+ORD-10563,2024-01-26,CUST-0062,Shreya Aggarwal,Female,43,New Delhi,Delhi,Apple iPhone 15 (128GB),Electronics,1,74999.0,25.0,56249.25,7499.9,Cash on Delivery,Delivered
+ORD-10769,2024-01-27,CUST-0037,Vivek Chawla,Male,39,New Delhi,Delhi,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,15.0,2031.5,621.64,Debit Card,Delivered
+ORD-10002,2024-01-28,CUST-0008,Pooja Nair,Female,30,Kochi,Kerala,The Psychology of Money by Morgan Housel,Books & Stationery,2,399.0,0.0,798.0,303.24,UPI,Delivered
+ORD-10264,2024-01-28,CUST-0062,Shreya Aggarwal,Female,43,New Delhi,Delhi,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,2,649.0,15.0,1103.3,417.05,Credit Card,Delivered
+ORD-10408,2024-01-30,CUST-0067,Nandini Singhania,Female,33,Thiruvananthapuram,Kerala,Allen Solly Men's Cotton Polo,Fashion,3,1199.0,15.0,3057.45,1210.75,Credit Card,Delivered
+ORD-10535,2024-01-30,CUST-0041,Tarun Sethi,Male,43,Chandigarh,Punjab,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,2,649.0,0.0,1298.0,545.16,Debit Card,Delivered
+ORD-10132,2024-02-01,CUST-0066,Aryan Desai,Male,22,Gurugram,Haryana,Prestige Induction Cooktop 2000W,Home & Kitchen,2,2899.0,5.0,5508.1,1490.86,UPI,Pending
+ORD-10145,2024-02-01,CUST-0017,Arjun Kapoor,Male,31,Mumbai,Maharashtra,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,5.0,3324.05,899.71,UPI,Delivered
+ORD-10327,2024-02-02,CUST-0046,Ankita Bose,Female,28,Kolkata,West Bengal,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,15.0,27115.0,5124.73,Cash on Delivery,Delivered
+ORD-10796,2024-02-04,CUST-0073,Chetan Bhattacharya,Male,58,Kanpur,Uttar Pradesh,The Psychology of Money by Morgan Housel,Books & Stationery,3,399.0,0.0,1197.0,454.86,UPI,Delivered
+ORD-10634,2024-02-06,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,Fossil Minimalist Chronograph Watch,Fashion,2,11495.0,5.0,21840.5,7811.62,Cash on Delivery,Pending
+ORD-10848,2024-02-06,CUST-0079,Shreya Bhatia,Female,27,Kolkata,West Bengal,Logitech MX Master 3S Mouse,Electronics,1,8995.0,20.0,7196.0,1746.23,Credit Card,Pending
+ORD-10764,2024-02-09,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,2,499.0,0.0,998.0,449.1,Cash on Delivery,Delivered
+ORD-10818,2024-02-09,CUST-0045,Mohit Suri,Male,25,Noida,Uttar Pradesh,Parker Frontier Matte Black Fountain Pen,Books & Stationery,1,650.0,15.0,552.5,228.74,UPI,Delivered
+ORD-10318,2024-02-10,CUST-0048,Namrata Joshi,Female,34,Pune,Maharashtra,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,2,3499.0,5.0,6648.1,1799.42,UPI,Pending
+ORD-10295,2024-02-12,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,15.0,2031.5,621.64,Credit Card,Pending
+ORD-10485,2024-02-12,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,The Psychology of Money by Morgan Housel,Books & Stationery,3,399.0,20.0,957.6,315.37,UPI,Delivered
+ORD-10735,2024-02-12,CUST-0132,Suraj Bhattacharya,Male,24,Ludhiana,Punjab,Fossil Minimalist Chronograph Watch,Fashion,2,11495.0,5.0,21840.5,7811.62,UPI,Delivered
+ORD-10160,2024-02-13,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,Allen Solly Men's Cotton Polo,Fashion,1,1199.0,15.0,1019.15,403.58,UPI,Delivered
+ORD-10402,2024-02-14,CUST-0013,Amitabh Sen,Male,45,Kolkata,West Bengal,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,2,3295.0,20.0,5272.0,1462.1,Debit Card,Pending
+ORD-10028,2024-02-15,CUST-0003,Rahul Verma,Male,24,Bengaluru,Karnataka,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,2,599.0,20.0,958.4,382.08,UPI,Delivered
+ORD-10006,2024-02-19,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,The Psychology of Money by Morgan Housel,Books & Stationery,3,399.0,0.0,1197.0,-71.82,Credit Card,Returned
+ORD-10445,2024-02-19,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,1,3295.0,20.0,2636.0,731.05,UPI,Delivered
+ORD-10767,2024-02-19,CUST-0064,Kartik Chopra,Male,35,New Delhi,Delhi,The Body Shop British Rose Shower Gel,Beauty & Personal Care,1,795.0,25.0,596.25,218.63,UPI,Delivered
+ORD-10494,2024-02-21,CUST-0006,Sneha Reddy,Female,27,Hyderabad,Telangana,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,15.0,2974.15,749.49,Net Banking,Delivered
+ORD-10762,2024-02-22,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,1,950.0,0.0,950.0,0.0,Debit Card,Cancelled
+ORD-10797,2024-02-23,CUST-0142,Naveen Grewal,Male,24,Varanasi,Uttar Pradesh,SleepyCat Memory Foam Ortho Mattress,Home & Kitchen,1,13999.0,15.0,11899.15,3212.77,Net Banking,Delivered
+ORD-10053,2024-02-24,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,The Psychology of Money by Morgan Housel,Books & Stationery,1,399.0,25.0,299.25,-17.95,UPI,Returned
+ORD-10359,2024-02-25,CUST-0130,Vidya Subramanian,Female,27,Ahmedabad,Gujarat,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,2,950.0,15.0,1615.0,479.66,UPI,Delivered
+ORD-10474,2024-02-25,CUST-0040,Deepika Sundaram,Female,33,Chennai,Tamil Nadu,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,2,999.0,25.0,1498.5,524.48,Credit Card,Pending
+ORD-10159,2024-03-01,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,15.0,2422.5,1046.52,Cash on Delivery,Delivered
+ORD-10195,2024-03-01,CUST-0133,Shruti Desai,Female,27,Bhopal,Madhya Pradesh,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,3,350.0,25.0,787.5,262.5,Credit Card,Delivered
+ORD-10404,2024-03-02,CUST-0032,Bhavna Shah,Female,37,Mumbai,Maharashtra,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,20.0,11599.2,2211.58,Credit Card,Delivered
+ORD-10693,2024-03-02,CUST-0044,Archana Pillai,Female,36,Coimbatore,Tamil Nadu,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,2,1799.0,0.0,3598.0,1511.16,UPI,Delivered
+ORD-10186,2024-03-03,CUST-0006,Sneha Reddy,Female,27,Hyderabad,Telangana,Levi's 511 Slim Fit Denim,Fashion,3,2899.0,10.0,7827.3,2776.08,UPI,Pending
+ORD-10015,2024-03-06,CUST-0026,Ishita Roy,Female,30,Kolkata,West Bengal,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,1,599.0,5.0,569.05,253.04,Cash on Delivery,Delivered
+ORD-10080,2024-03-07,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,2,3499.0,10.0,6298.2,1645.93,UPI,Delivered
+ORD-10528,2024-03-08,CUST-0003,Rahul Verma,Male,24,Bengaluru,Karnataka,The Psychology of Money by Morgan Housel,Books & Stationery,2,399.0,25.0,598.5,0.0,Debit Card,Cancelled
+ORD-10791,2024-03-08,CUST-0053,Kabir Singhania,Male,33,Chennai,Tamil Nadu,Atomic Habits by James Clear,Books & Stationery,1,499.0,5.0,474.05,164.97,UPI,Delivered
+ORD-10804,2024-03-08,CUST-0071,Kartik Kaur,Male,25,Gurugram,Haryana,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,20.0,87992.0,10676.36,UPI,Delivered
+ORD-10089,2024-03-09,CUST-0074,Harshit Chopra,Male,27,Ludhiana,Punjab,Atomic Habits by James Clear,Books & Stationery,4,499.0,15.0,1696.6,549.7,UPI,Delivered
+ORD-10504,2024-03-09,CUST-0017,Arjun Kapoor,Male,31,Mumbai,Maharashtra,The Body Shop British Rose Shower Gel,Beauty & Personal Care,1,795.0,5.0,755.25,321.23,Debit Card,Delivered
+ORD-10507,2024-03-10,CUST-0016,Sunita Deshmukh,Female,42,Nagpur,Maharashtra,Puma Classic Tracksuit,Fashion,2,3799.0,5.0,7218.1,2511.9,UPI,Delivered
+ORD-10737,2024-03-10,CUST-0006,Sneha Reddy,Female,27,Hyderabad,Telangana,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,1,1799.0,15.0,1529.15,578.02,UPI,Delivered
+ORD-10258,2024-03-12,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,2,649.0,20.0,1038.4,377.98,Credit Card,Delivered
+ORD-10777,2024-03-14,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,Prestige Induction Cooktop 2000W,Home & Kitchen,1,2899.0,0.0,2899.0,811.72,UPI,Delivered
+ORD-10056,2024-03-20,CUST-0097,Shreya Mittal,Female,45,Mumbai,Maharashtra,Samsung Galaxy S24 5G,Electronics,1,69999.0,10.0,62999.1,10583.85,UPI,Delivered
+ORD-10698,2024-03-21,CUST-0007,Vikram Singh,Male,41,Jaipur,Rajasthan,Prestige Induction Cooktop 2000W,Home & Kitchen,1,2899.0,25.0,2174.25,507.33,UPI,Delivered
+ORD-10017,2024-03-22,CUST-0055,Vidya Narang,Female,20,Gurugram,Haryana,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,1,350.0,25.0,262.5,87.5,Net Banking,Delivered
+ORD-10039,2024-03-22,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,4,1799.0,10.0,6476.4,2538.75,UPI,Delivered
+ORD-10298,2024-03-23,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,The Psychology of Money by Morgan Housel,Books & Stationery,1,399.0,0.0,399.0,0.0,UPI,Cancelled
+ORD-10527,2024-03-23,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,1,649.0,20.0,519.2,188.99,Cash on Delivery,Delivered
+ORD-10142,2024-03-24,CUST-0069,Pranav Trivedi,Male,35,Bhopal,Madhya Pradesh,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,0.0,109990.0,15398.6,Credit Card,Delivered
+ORD-10691,2024-03-25,CUST-0006,Sneha Reddy,Female,27,Hyderabad,Telangana,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,0.0,7490.0,3145.8,Credit Card,Pending
+ORD-10001,2024-03-26,CUST-0043,Rohit Khandelwal,Male,32,Indore,Madhya Pradesh,Sony WH-1000XM5 ANC Headphones,Electronics,1,26990.0,5.0,25640.5,5452.88,Credit Card,Delivered
+ORD-10288,2024-03-26,CUST-0036,Kajal Tripathi,Female,28,Varanasi,Uttar Pradesh,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,20.0,12399.2,2579.03,UPI,Delivered
+ORD-10270,2024-03-27,CUST-0074,Harshit Chopra,Male,27,Ludhiana,Punjab,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,4,999.0,0.0,3996.0,1678.32,Credit Card,Delivered
+ORD-10627,2024-03-27,CUST-0075,Tara Narang,Female,47,New Delhi,Delhi,Atomic Habits by James Clear,Books & Stationery,1,499.0,0.0,499.0,179.64,UPI,Delivered
+ORD-10801,2024-03-29,CUST-0008,Pooja Nair,Female,30,Kochi,Kerala,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,3,599.0,10.0,1617.3,0.0,Cash on Delivery,Cancelled
+ORD-10640,2024-03-31,CUST-0078,Suraj Patil,Male,30,Jaipur,Rajasthan,Zara Classic Linen Casual Shirt,Fashion,3,2990.0,0.0,8970.0,3588.0,Debit Card,Delivered
+ORD-10602,2024-04-01,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,0.0,15499.0,-929.94,UPI,Returned
+ORD-10736,2024-04-01,CUST-0010,Neha Gupta,Female,26,New Delhi,Delhi,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,10.0,3149.1,822.96,UPI,Delivered
+ORD-10140,2024-04-02,CUST-0048,Namrata Joshi,Female,34,Pune,Maharashtra,Logitech MX Master 3S Mouse,Electronics,1,8995.0,10.0,8095.5,2115.62,Net Banking,Delivered
+ORD-10021,2024-04-03,CUST-0057,Dev Bhattacharya,Male,26,Kolkata,West Bengal,Samsung Galaxy S24 5G,Electronics,1,69999.0,5.0,66499.05,11570.83,Debit Card,Delivered
+ORD-10583,2024-04-04,CUST-0128,Rhea Singhania,Female,36,New Delhi,Delhi,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,0.0,999.0,419.58,Debit Card,Delivered
+ORD-10109,2024-04-05,CUST-0091,Shreya Desai,Female,23,Chandigarh,Punjab,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,10.0,899.1,352.45,Net Banking,Delivered
+ORD-10271,2024-04-05,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Prestige Induction Cooktop 2000W,Home & Kitchen,2,2899.0,0.0,5798.0,1623.44,Net Banking,Delivered
+ORD-10683,2024-04-05,CUST-0079,Shreya Bhatia,Female,27,Kolkata,West Bengal,Apple iPhone 15 (128GB),Electronics,1,74999.0,5.0,71249.05,11019.85,Debit Card,Delivered
+ORD-10124,2024-04-06,CUST-0114,Harshit Aggarwal,Male,36,Jaipur,Rajasthan,Philips Digital Air Fryer HD9252,Home & Kitchen,1,8499.0,10.0,7649.1,1784.79,UPI,Delivered
+ORD-10422,2024-04-08,CUST-0123,Rhea Trivedi,Female,41,Gurugram,Haryana,Nike Air Max 270 Sneakers,Fashion,1,8995.0,20.0,7196.0,0.0,Credit Card,Cancelled
+ORD-10530,2024-04-08,CUST-0065,Nandini Rastogi,Female,55,Coimbatore,Tamil Nadu,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,0.0,15499.0,3719.76,UPI,Delivered
+ORD-10718,2024-04-08,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,The Body Shop British Rose Shower Gel,Beauty & Personal Care,2,795.0,0.0,1590.0,699.6,Credit Card,Delivered
+ORD-10033,2024-04-09,CUST-0070,Komal Grewal,Female,45,Kolkata,West Bengal,Apple iPad Air M2,Electronics,1,54900.0,5.0,52155.0,8570.81,Credit Card,Pending
+ORD-10828,2024-04-09,CUST-0056,Simran Narang,Female,29,Coimbatore,Tamil Nadu,Parker Frontier Matte Black Fountain Pen,Books & Stationery,2,650.0,0.0,1300.0,598.0,UPI,Delivered
+ORD-10041,2024-04-10,CUST-0028,Swati Agarwal,Female,35,New Delhi,Delhi,Logitech MX Master 3S Mouse,Electronics,1,8995.0,0.0,8995.0,-539.7,UPI,Returned
+ORD-10711,2024-04-10,CUST-0089,Isha Patil,Female,50,Gurugram,Haryana,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,3,649.0,10.0,1752.3,686.9,Cash on Delivery,Delivered
+ORD-10302,2024-04-11,CUST-0057,Dev Bhattacharya,Male,26,Kolkata,West Bengal,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,25.0,1792.5,507.88,UPI,Delivered
+ORD-10523,2024-04-12,CUST-0020,Meera Nambiar,Female,39,Thiruvananthapuram,Kerala,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,1,350.0,20.0,280.0,97.07,UPI,Delivered
+ORD-10496,2024-04-14,CUST-0075,Tara Narang,Female,47,New Delhi,Delhi,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,3,1799.0,25.0,4047.75,1416.71,UPI,Delivered
+ORD-10603,2024-04-14,CUST-0026,Ishita Roy,Female,30,Kolkata,West Bengal,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,0.0,2850.0,1368.0,Credit Card,Delivered
+ORD-10560,2024-04-16,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,5.0,30305.0,0.0,UPI,Cancelled
+ORD-10843,2024-04-16,CUST-0016,Sunita Deshmukh,Female,42,Nagpur,Maharashtra,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,3,1799.0,20.0,4317.6,1571.61,Credit Card,Delivered
+ORD-10045,2024-04-17,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,10.0,98991.0,0.0,UPI,Cancelled
+ORD-10399,2024-04-20,CUST-0119,Vidya Subramanian,Female,29,Ahmedabad,Gujarat,Samsung Galaxy S24 5G,Electronics,1,69999.0,25.0,52499.25,7874.89,UPI,Delivered
+ORD-10011,2024-04-21,CUST-0039,Akash Bansal,Male,27,Gurugram,Haryana,Parker Frontier Matte Black Fountain Pen,Books & Stationery,2,650.0,0.0,1300.0,598.0,Net Banking,Delivered
+ORD-10632,2024-04-21,CUST-0085,Aryan Mittal,Male,24,Kolkata,West Bengal,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,25.0,749.25,0.0,Credit Card,Cancelled
+ORD-10760,2024-04-22,CUST-0101,Mayank Dutta,Male,23,Nagpur,Maharashtra,Mi 360 Home Security Camera 2K,Electronics,1,2999.0,25.0,2249.25,562.31,UPI,Delivered
+ORD-10522,2024-04-23,CUST-0146,Alok Desai,Male,27,Noida,Uttar Pradesh,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,0.0,2390.0,-143.4,Debit Card,Returned
+ORD-10027,2024-04-25,CUST-0122,Alok Rastogi,Male,35,New Delhi,Delhi,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,0.0,2850.0,1368.0,Cash on Delivery,Delivered
+ORD-10218,2024-04-25,CUST-0032,Bhavna Shah,Female,37,Mumbai,Maharashtra,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,10.0,28710.0,5627.16,Cash on Delivery,Delivered
+ORD-10655,2024-04-25,CUST-0026,Ishita Roy,Female,30,Kolkata,West Bengal,The Body Shop British Rose Shower Gel,Beauty & Personal Care,3,795.0,15.0,2027.25,802.79,Credit Card,Delivered
+ORD-10294,2024-04-27,CUST-0074,Harshit Chopra,Male,27,Ludhiana,Punjab,Apple iPhone 15 (128GB),Electronics,1,74999.0,15.0,63749.15,9179.88,UPI,Delivered
+ORD-10201,2024-04-28,CUST-0003,Rahul Verma,Male,24,Bengaluru,Karnataka,Sony WH-1000XM5 ANC Headphones,Electronics,1,26990.0,25.0,20242.5,3711.13,Credit Card,Delivered
+ORD-10304,2024-04-28,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,3,950.0,0.0,2850.0,0.0,Cash on Delivery,Cancelled
+ORD-10328,2024-04-28,CUST-0029,Harish Hegde,Male,40,Mysuru,Karnataka,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,2,2390.0,0.0,4780.0,-286.8,UPI,Returned
+ORD-10169,2024-04-30,CUST-0077,Ojas Aggarwal,Male,39,Chandigarh,Punjab,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,15.0,12324.15,2440.18,Net Banking,Delivered
+ORD-10393,2024-04-30,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,The Psychology of Money by Morgan Housel,Books & Stationery,1,399.0,20.0,319.2,105.12,UPI,Delivered
+ORD-10171,2024-05-01,CUST-0045,Mohit Suri,Male,25,Noida,Uttar Pradesh,Logitech MX Master 3S Mouse,Electronics,1,8995.0,0.0,8995.0,-539.7,Credit Card,Returned
+ORD-10798,2024-05-01,CUST-0014,Kavita Mehra,Female,34,Chandigarh,Punjab,The Psychology of Money by Morgan Housel,Books & Stationery,4,399.0,25.0,1197.0,0.0,UPI,Cancelled
+ORD-10353,2024-05-02,CUST-0116,Rhea Bhatia,Female,41,Gurugram,Haryana,Philips Digital Air Fryer HD9252,Home & Kitchen,1,8499.0,25.0,6374.25,1327.97,Credit Card,Delivered
+ORD-10567,2024-05-02,CUST-0003,Rahul Verma,Male,24,Bengaluru,Karnataka,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,5.0,3324.05,899.71,Credit Card,Delivered
+ORD-10604,2024-05-02,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,15.0,2422.5,1046.52,UPI,Delivered
+ORD-10004,2024-05-03,CUST-0134,Shruti Bhattacharya,Female,40,Surat,Gujarat,Logitech MX Master 3S Mouse,Electronics,1,8995.0,10.0,8095.5,2115.62,Net Banking,Pending
+ORD-10480,2024-05-03,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,Allen Solly Men's Cotton Polo,Fashion,1,1199.0,15.0,1019.15,0.0,UPI,Cancelled
+ORD-10286,2024-05-04,CUST-0102,Anushka Rastogi,Female,53,New Delhi,Delhi,Apple iPad Air M2,Electronics,1,54900.0,10.0,49410.0,7839.72,Debit Card,Delivered
+ORD-10215,2024-05-05,CUST-0039,Akash Bansal,Male,27,Gurugram,Haryana,Allen Solly Men's Cotton Polo,Fashion,3,1199.0,5.0,3417.15,-205.03,UPI,Returned
+ORD-10216,2024-05-05,CUST-0101,Mayank Dutta,Male,23,Nagpur,Maharashtra,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,0.0,11495.0,4253.15,UPI,Delivered
+ORD-10617,2024-05-08,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,25.0,8621.25,2658.22,UPI,Delivered
+ORD-10046,2024-05-09,CUST-0052,Mayank Singhania,Male,54,Mysuru,Karnataka,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,2,649.0,0.0,1298.0,545.16,Cash on Delivery,Delivered
+ORD-10158,2024-05-09,CUST-0010,Neha Gupta,Female,26,New Delhi,Delhi,Allen Solly Men's Cotton Polo,Fashion,3,1199.0,10.0,3237.3,1329.45,UPI,Delivered
+ORD-10484,2024-05-09,CUST-0061,Tara Desai,Female,34,Mysuru,Karnataka,Zara Classic Linen Casual Shirt,Fashion,1,2990.0,10.0,2691.0,1004.64,UPI,Delivered
+ORD-10266,2024-05-11,CUST-0001,Aarav Sharma,Male,28,Mumbai,Maharashtra,Nike Air Max 270 Sneakers,Fashion,2,8995.0,15.0,15291.5,4403.95,Credit Card,Delivered
+ORD-10543,2024-05-11,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,2,1799.0,15.0,3058.3,1156.04,UPI,Delivered
+ORD-10116,2024-05-12,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Nike Air Max 270 Sneakers,Fashion,3,8995.0,0.0,26985.0,8635.2,Cash on Delivery,Delivered
+ORD-10468,2024-05-13,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,The Body Shop British Rose Shower Gel,Beauty & Personal Care,1,795.0,0.0,795.0,349.8,UPI,Delivered
+ORD-10562,2024-05-14,CUST-0037,Vivek Chawla,Male,39,New Delhi,Delhi,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,3,350.0,0.0,1050.0,420.0,UPI,Delivered
+ORD-10265,2024-05-16,CUST-0107,Kiara Aggarwal,Female,39,Kanpur,Uttar Pradesh,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,25.0,23925.0,4186.88,UPI,Delivered
+ORD-10146,2024-05-17,CUST-0070,Komal Grewal,Female,45,Kolkata,West Bengal,Levi's 511 Slim Fit Denim,Fashion,1,2899.0,0.0,2899.0,1101.62,Cash on Delivery,Delivered
+ORD-10503,2024-05-17,CUST-0121,Harshit Singhania,Male,42,Gurugram,Haryana,Allen Solly Men's Cotton Polo,Fashion,3,1199.0,5.0,3417.15,1453.43,Debit Card,Delivered
+ORD-10612,2024-05-19,CUST-0057,Dev Bhattacharya,Male,26,Kolkata,West Bengal,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,5.0,7115.5,-426.93,UPI,Returned
+ORD-10770,2024-05-19,CUST-0059,Tara Subramanian,Female,38,Ludhiana,Punjab,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,1,649.0,10.0,584.1,228.97,UPI,Delivered
+ORD-10149,2024-05-20,CUST-0041,Tarun Sethi,Male,43,Chandigarh,Punjab,Logitech MX Master 3S Mouse,Electronics,1,8995.0,5.0,8545.25,2312.91,Net Banking,Delivered
+ORD-10532,2024-05-20,CUST-0001,Aarav Sharma,Male,28,Mumbai,Maharashtra,Zara Classic Linen Casual Shirt,Fashion,1,2990.0,25.0,2242.5,747.5,Net Banking,Pending
+ORD-10409,2024-05-22,CUST-0016,Sunita Deshmukh,Female,42,Nagpur,Maharashtra,Levi's 511 Slim Fit Denim,Fashion,2,2899.0,5.0,5508.1,2023.31,Net Banking,Delivered
+ORD-10836,2024-05-22,CUST-0085,Aryan Mittal,Male,24,Kolkata,West Bengal,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,10.0,629.1,234.86,Cash on Delivery,Delivered
+ORD-10781,2024-05-23,CUST-0047,Sanjay Rathore,Male,47,Jaipur,Rajasthan,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,5.0,2270.5,746.24,Credit Card,Delivered
+ORD-10163,2024-05-24,CUST-0045,Mohit Suri,Male,25,Noida,Uttar Pradesh,Samsung Galaxy S24 5G,Electronics,1,69999.0,10.0,62999.1,10583.85,Net Banking,Delivered
+ORD-10547,2024-05-24,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,2,999.0,5.0,1898.1,770.63,UPI,Delivered
+ORD-10411,2024-05-25,CUST-0031,Varun Menon,Male,32,Kochi,Kerala,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,1,3295.0,10.0,2965.5,885.7,UPI,Delivered
+ORD-10129,2024-05-26,CUST-0033,Sameer Khan,Male,30,Hyderabad,Telangana,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,15.0,594.15,213.89,Debit Card,Delivered
+ORD-10820,2024-05-26,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,10.0,13949.1,3124.6,Cash on Delivery,Delivered
+ORD-10155,2024-05-29,CUST-0031,Varun Menon,Male,32,Kochi,Kerala,The Psychology of Money by Morgan Housel,Books & Stationery,2,399.0,15.0,678.3,231.98,Credit Card,Delivered
+ORD-10306,2024-05-29,CUST-0033,Sameer Khan,Male,30,Hyderabad,Telangana,Atomic Habits by James Clear,Books & Stationery,1,499.0,25.0,374.25,112.27,UPI,Delivered
+ORD-10589,2024-05-29,CUST-0034,Preeti Dubey,Female,26,Lucknow,Uttar Pradesh,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,5.0,13774.05,2929.28,UPI,Delivered
+ORD-10081,2024-05-30,CUST-0054,Mayank Aggarwal,Male,54,Ahmedabad,Gujarat,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,25.0,5617.5,0.0,Credit Card,Cancelled
+ORD-10208,2024-05-30,CUST-0034,Preeti Dubey,Female,26,Lucknow,Uttar Pradesh,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,20.0,25520.0,4644.64,Credit Card,Delivered
+ORD-10476,2024-05-31,CUST-0017,Arjun Kapoor,Male,31,Mumbai,Maharashtra,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,3,1799.0,15.0,4587.45,1734.06,Credit Card,Delivered
+ORD-10555,2024-05-31,CUST-0013,Amitabh Sen,Male,45,Kolkata,West Bengal,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,15.0,13174.15,2845.62,UPI,Delivered
+ORD-10708,2024-05-31,CUST-0016,Sunita Deshmukh,Female,42,Nagpur,Maharashtra,OnePlus Nord CE 3 Lite 5G,Electronics,1,18499.0,10.0,16649.1,3107.83,Debit Card,Pending
+ORD-10197,2024-06-01,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,0.0,7490.0,3145.8,Credit Card,Delivered
+ORD-10420,2024-06-04,CUST-0147,Shruti Subramanian,Female,55,Thiruvananthapuram,Kerala,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,20.0,9196.0,2948.85,UPI,Pending
+ORD-10398,2024-06-07,CUST-0003,Rahul Verma,Male,24,Bengaluru,Karnataka,Samsung Galaxy S24 5G,Electronics,1,69999.0,5.0,66499.05,11570.83,Credit Card,Delivered
+ORD-10600,2024-06-07,CUST-0050,Geeta Madhavan,Female,41,Chennai,Tamil Nadu,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,10.0,899.1,352.45,UPI,Delivered
+ORD-10463,2024-06-10,CUST-0107,Kiara Aggarwal,Female,39,Kanpur,Uttar Pradesh,Puma Classic Tracksuit,Fashion,1,3799.0,15.0,3229.15,-193.75,Credit Card,Returned
+ORD-10364,2024-06-11,CUST-0093,Aryan Mittal,Male,54,Noida,Uttar Pradesh,Levi's 511 Slim Fit Denim,Fashion,1,2899.0,15.0,2464.15,842.74,Debit Card,Delivered
+ORD-10714,2024-06-11,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Parker Frontier Matte Black Fountain Pen,Books & Stationery,3,650.0,0.0,1950.0,897.0,Credit Card,Delivered
+ORD-10153,2024-06-14,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,Zara Classic Linen Casual Shirt,Fashion,1,2990.0,5.0,2840.5,0.0,UPI,Cancelled
+ORD-10492,2024-06-14,CUST-0007,Vikram Singh,Male,41,Jaipur,Rajasthan,Samsung Galaxy S24 5G,Electronics,1,69999.0,0.0,69999.0,12599.82,Debit Card,Delivered
+ORD-10138,2024-06-15,CUST-0049,Ashish Pandey,Male,29,Lucknow,Uttar Pradesh,Philips Digital Air Fryer HD9252,Home & Kitchen,2,8499.0,0.0,16998.0,4249.5,Net Banking,Delivered
+ORD-10176,2024-06-15,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,20.0,5992.0,2181.09,UPI,Delivered
+ORD-10285,2024-06-15,CUST-0008,Pooja Nair,Female,30,Kochi,Kerala,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,1,1799.0,20.0,1439.2,523.87,UPI,Delivered
+ORD-10407,2024-06-15,CUST-0129,Dev Grewal,Male,47,Kolkata,West Bengal,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,20.0,559.2,193.86,Credit Card,Delivered
+ORD-10394,2024-06-16,CUST-0068,Harshit Kaur,Male,45,Ludhiana,Punjab,SleepyCat Memory Foam Ortho Mattress,Home & Kitchen,1,13999.0,0.0,13999.0,4199.7,Cash on Delivery,Delivered
+ORD-10723,2024-06-16,CUST-0008,Pooja Nair,Female,30,Kochi,Kerala,Parker Frontier Matte Black Fountain Pen,Books & Stationery,1,650.0,5.0,617.5,274.58,Debit Card,Delivered
+ORD-10300,2024-06-19,CUST-0048,Namrata Joshi,Female,34,Pune,Maharashtra,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,0.0,2390.0,812.6,Cash on Delivery,Delivered
+ORD-10426,2024-06-19,CUST-0001,Aarav Sharma,Male,28,Mumbai,Maharashtra,Apple iPhone 15 (128GB),Electronics,1,74999.0,10.0,67499.1,10079.87,Credit Card,Delivered
+ORD-10102,2024-06-20,CUST-0013,Amitabh Sen,Male,45,Kolkata,West Bengal,OnePlus Nord CE 3 Lite 5G,Electronics,2,18499.0,20.0,29598.4,5130.39,UPI,Delivered
+ORD-10569,2024-06-20,CUST-0073,Chetan Bhattacharya,Male,58,Kanpur,Uttar Pradesh,Nike Air Max 270 Sneakers,Fashion,1,8995.0,25.0,6746.25,1799.0,Debit Card,Delivered
+ORD-10131,2024-06-22,CUST-0094,Kiara Narang,Female,49,Chennai,Tamil Nadu,Nivia Storm Football Size 5,Sports & Fitness,2,699.0,15.0,1188.3,427.79,UPI,Delivered
+ORD-10653,2024-06-23,CUST-0024,Tanvi Kulkarni,Female,23,Pune,Maharashtra,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,2,950.0,15.0,1615.0,0.0,UPI,Cancelled
+ORD-10230,2024-06-24,CUST-0098,Rhea Bhattacharya,Female,36,Gurugram,Haryana,Apple iPad Air M2,Electronics,1,54900.0,0.0,54900.0,0.0,Debit Card,Cancelled
+ORD-10610,2024-06-25,CUST-0066,Aryan Desai,Male,22,Gurugram,Haryana,Boat Rockerz 450 Bluetooth Headset,Electronics,2,1499.0,15.0,2548.3,0.0,Net Banking,Cancelled
+ORD-10477,2024-06-28,CUST-0028,Swati Agarwal,Female,35,New Delhi,Delhi,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,20.0,2799.2,679.27,Credit Card,Delivered
+ORD-10177,2024-06-29,CUST-0144,Yash Aggarwal,Male,20,Gurugram,Haryana,SleepyCat Memory Foam Ortho Mattress,Home & Kitchen,1,13999.0,25.0,10499.25,0.0,Debit Card,Cancelled
+ORD-10329,2024-06-30,CUST-0043,Rohit Khandelwal,Male,32,Indore,Madhya Pradesh,Atomic Habits by James Clear,Books & Stationery,2,499.0,0.0,998.0,359.28,Net Banking,Delivered
+ORD-10386,2024-06-30,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,0.0,11495.0,0.0,Debit Card,Cancelled
+ORD-10448,2024-06-30,CUST-0006,Sneha Reddy,Female,27,Hyderabad,Telangana,Nike Air Max 270 Sneakers,Fashion,2,8995.0,25.0,13492.5,3598.0,Credit Card,Pending
+ORD-10296,2024-07-03,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,0.0,699.0,279.6,Credit Card,Delivered
+ORD-10297,2024-07-03,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,2,950.0,25.0,1425.0,391.88,Debit Card,Pending
+ORD-10268,2024-07-04,CUST-0008,Pooja Nair,Female,30,Kochi,Kerala,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,15.0,27115.0,5124.73,Debit Card,Delivered
+ORD-10495,2024-07-04,CUST-0042,Pallavi Shenoy,Female,29,Bengaluru,Karnataka,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,2,2390.0,10.0,4302.0,1365.17,Debit Card,Delivered
+ORD-10049,2024-07-05,CUST-0143,Mayank Chopra,Male,44,Varanasi,Uttar Pradesh,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,1,3295.0,25.0,2471.25,659.0,Credit Card,Delivered
+ORD-10846,2024-07-05,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,Levi's 511 Slim Fit Denim,Fashion,1,2899.0,10.0,2609.1,925.36,Credit Card,Delivered
+ORD-10009,2024-07-06,CUST-0073,Chetan Bhattacharya,Male,58,Kanpur,Uttar Pradesh,Logitech MX Master 3S Mouse,Electronics,1,8995.0,0.0,8995.0,2518.6,Credit Card,Pending
+ORD-10117,2024-07-06,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,1,350.0,5.0,332.5,0.0,Credit Card,Cancelled
+ORD-10696,2024-07-06,CUST-0081,Radhika Singhania,Female,54,Gurugram,Haryana,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,2,999.0,20.0,1598.4,581.82,UPI,Delivered
+ORD-10716,2024-07-06,CUST-0116,Rhea Bhatia,Female,41,Gurugram,Haryana,Boat Rockerz 450 Bluetooth Headset,Electronics,2,1499.0,25.0,2248.5,655.81,Net Banking,Delivered
+ORD-10346,2024-07-07,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,0.0,15499.0,3719.76,UPI,Delivered
+ORD-10055,2024-07-08,CUST-0148,Vidya Desai,Female,52,Surat,Gujarat,Samsung Galaxy S24 5G,Electronics,1,69999.0,0.0,69999.0,12599.82,Cash on Delivery,Delivered
+ORD-10502,2024-07-08,CUST-0074,Harshit Chopra,Male,27,Ludhiana,Punjab,Boat Rockerz 450 Bluetooth Headset,Electronics,1,1499.0,5.0,1424.05,481.8,Net Banking,Delivered
+ORD-10545,2024-07-08,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,1,950.0,20.0,760.0,217.36,Debit Card,Delivered
+ORD-10222,2024-07-09,CUST-0084,Payal Aggarwal,Female,43,Varanasi,Uttar Pradesh,Atomic Habits by James Clear,Books & Stationery,2,499.0,25.0,748.5,224.55,Net Banking,Pending
+ORD-10188,2024-07-10,CUST-0067,Nandini Singhania,Female,33,Thiruvananthapuram,Kerala,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,2,14499.0,0.0,28998.0,6379.56,Credit Card,Pending
+ORD-10005,2024-07-13,CUST-0024,Tanvi Kulkarni,Female,23,Pune,Maharashtra,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,2,999.0,5.0,1898.1,770.63,UPI,Delivered
+ORD-10730,2024-07-13,CUST-0001,Aarav Sharma,Male,28,Mumbai,Maharashtra,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,5.0,2270.5,746.24,UPI,Delivered
+ORD-10771,2024-07-13,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Apple iPhone 15 (128GB),Electronics,1,74999.0,10.0,67499.1,0.0,UPI,Cancelled
+ORD-10805,2024-07-14,CUST-0024,Tanvi Kulkarni,Female,23,Pune,Maharashtra,Parker Frontier Matte Black Fountain Pen,Books & Stationery,2,650.0,0.0,1300.0,598.0,Credit Card,Pending
+ORD-10537,2024-07-16,CUST-0073,Chetan Bhattacharya,Male,58,Kanpur,Uttar Pradesh,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,20.0,2799.2,679.27,UPI,Delivered
+ORD-10410,2024-07-17,CUST-0008,Pooja Nair,Female,30,Kochi,Kerala,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,1,1799.0,0.0,1799.0,755.58,Credit Card,Delivered
+ORD-10557,2024-07-17,CUST-0050,Geeta Madhavan,Female,41,Chennai,Tamil Nadu,Parker Frontier Matte Black Fountain Pen,Books & Stationery,1,650.0,10.0,585.0,251.16,UPI,Delivered
+ORD-10615,2024-07-17,CUST-0017,Arjun Kapoor,Male,31,Mumbai,Maharashtra,Philips Digital Air Fryer HD9252,Home & Kitchen,1,8499.0,5.0,8074.05,1951.23,Debit Card,Delivered
+ORD-10792,2024-07-17,CUST-0068,Harshit Kaur,Male,45,Ludhiana,Punjab,Fossil Minimalist Chronograph Watch,Fashion,2,11495.0,20.0,18392.0,5897.7,UPI,Delivered
+ORD-10152,2024-07-18,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,1,350.0,0.0,350.0,140.0,Cash on Delivery,Delivered
+ORD-10026,2024-07-20,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Kent Grand Plus RO Water Purifier,Home & Kitchen,2,15499.0,20.0,24798.4,0.0,Credit Card,Cancelled
+ORD-10352,2024-07-20,CUST-0040,Deepika Sundaram,Female,33,Chennai,Tamil Nadu,OnePlus Nord CE 3 Lite 5G,Electronics,1,18499.0,10.0,16649.1,-998.95,Debit Card,Returned
+ORD-10581,2024-07-22,CUST-0089,Isha Patil,Female,50,Gurugram,Haryana,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,10.0,28710.0,5627.16,UPI,Delivered
+ORD-10319,2024-07-23,CUST-0143,Mayank Chopra,Male,44,Varanasi,Uttar Pradesh,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,1,350.0,10.0,315.0,117.6,Debit Card,Delivered
+ORD-10822,2024-07-23,CUST-0035,Abhishek Das,Male,34,Kolkata,West Bengal,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,1,1799.0,0.0,1799.0,755.58,UPI,Delivered
+ORD-10239,2024-07-24,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,0.0,699.0,279.6,Credit Card,Delivered
+ORD-10412,2024-07-24,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,2,3499.0,25.0,5248.5,1224.65,Credit Card,Delivered
+ORD-10378,2024-07-25,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Zara Classic Linen Casual Shirt,Fashion,1,2990.0,0.0,2990.0,1196.0,Debit Card,Delivered
+ORD-10749,2024-07-26,CUST-0007,Vikram Singh,Male,41,Jaipur,Rajasthan,Nivia Storm Football Size 5,Sports & Fitness,3,699.0,20.0,1677.6,581.57,Debit Card,Delivered
+ORD-10091,2024-07-28,CUST-0014,Kavita Mehra,Female,34,Chandigarh,Punjab,Nivia Storm Football Size 5,Sports & Fitness,2,699.0,15.0,1188.3,427.79,Cash on Delivery,Delivered
+ORD-10373,2024-07-28,CUST-0049,Ashish Pandey,Male,29,Lucknow,Uttar Pradesh,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,2,350.0,5.0,665.0,257.13,Credit Card,Delivered
+ORD-10429,2024-07-28,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,2,649.0,25.0,973.5,340.72,UPI,Pending
+ORD-10438,2024-07-28,CUST-0056,Simran Narang,Female,29,Coimbatore,Tamil Nadu,Atomic Habits by James Clear,Books & Stationery,1,499.0,5.0,474.05,164.97,Cash on Delivery,Delivered
+ORD-10413,2024-07-29,CUST-0017,Arjun Kapoor,Male,31,Mumbai,Maharashtra,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,5.0,10920.25,3905.81,UPI,Delivered
+ORD-10728,2024-07-29,CUST-0007,Vikram Singh,Male,41,Jaipur,Rajasthan,Atomic Habits by James Clear,Books & Stationery,2,499.0,5.0,948.1,329.94,Credit Card,Delivered
+ORD-10834,2024-07-30,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,10.0,13049.1,2679.42,Credit Card,Pending
+ORD-10199,2024-07-31,CUST-0055,Vidya Narang,Female,20,Gurugram,Haryana,Mi 360 Home Security Camera 2K,Electronics,1,2999.0,25.0,2249.25,562.31,UPI,Delivered
+ORD-10483,2024-08-01,CUST-0140,Ojas Patil,Male,35,Ludhiana,Punjab,SleepyCat Memory Foam Ortho Mattress,Home & Kitchen,1,13999.0,20.0,11199.2,2911.79,UPI,Delivered
+ORD-10731,2024-08-01,CUST-0104,Chetan Singhania,Male,56,Chennai,Tamil Nadu,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,1,1799.0,0.0,1799.0,755.58,Cash on Delivery,Delivered
+ORD-10093,2024-08-02,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,1,1799.0,20.0,1439.2,523.87,UPI,Delivered
+ORD-10339,2024-08-02,CUST-0066,Aryan Desai,Male,22,Gurugram,Haryana,Boat Rockerz 450 Bluetooth Headset,Electronics,1,1499.0,20.0,1199.2,363.76,UPI,Delivered
+ORD-10313,2024-08-04,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,OnePlus Nord CE 3 Lite 5G,Electronics,1,18499.0,0.0,18499.0,3699.8,UPI,Delivered
+ORD-10166,2024-08-06,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,5.0,949.05,385.31,Credit Card,Delivered
+ORD-10241,2024-08-08,CUST-0117,Kiara Chopra,Female,48,Jaipur,Rajasthan,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,2,999.0,0.0,1998.0,839.16,UPI,Delivered
+ORD-10593,2024-08-08,CUST-0020,Meera Nambiar,Female,39,Thiruvananthapuram,Kerala,Nivia Storm Football Size 5,Sports & Fitness,2,699.0,20.0,1118.4,387.71,Credit Card,Pending
+ORD-10269,2024-08-09,CUST-0033,Sameer Khan,Male,30,Hyderabad,Telangana,Sony WH-1000XM5 ANC Headphones,Electronics,1,26990.0,25.0,20242.5,-1214.55,Credit Card,Returned
+ORD-10338,2024-08-09,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,The Body Shop British Rose Shower Gel,Beauty & Personal Care,1,795.0,15.0,675.75,267.6,Debit Card,Delivered
+ORD-10450,2024-08-09,CUST-0001,Aarav Sharma,Male,28,Mumbai,Maharashtra,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,0.0,14499.0,3189.78,Debit Card,Delivered
+ORD-10303,2024-08-10,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,Atomic Habits by James Clear,Books & Stationery,1,499.0,15.0,424.15,137.42,Cash on Delivery,Delivered
+ORD-10677,2024-08-11,CUST-0013,Amitabh Sen,Male,45,Kolkata,West Bengal,Mi 360 Home Security Camera 2K,Electronics,2,2999.0,25.0,4498.5,1124.62,Credit Card,Delivered
+ORD-10038,2024-08-13,CUST-0120,Pranav Dutta,Male,22,Kolkata,West Bengal,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,10.0,98991.0,12934.82,Credit Card,Delivered
+ORD-10849,2024-08-15,CUST-0016,Sunita Deshmukh,Female,42,Nagpur,Maharashtra,Nivia Storm Football Size 5,Sports & Fitness,4,699.0,0.0,2796.0,1118.4,Credit Card,Delivered
+ORD-10700,2024-08-16,CUST-0063,Isha Aggarwal,Female,37,Indore,Madhya Pradesh,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,1,950.0,20.0,760.0,0.0,UPI,Cancelled
+ORD-10278,2024-08-18,CUST-0127,Radhika Singhania,Female,37,Kolkata,West Bengal,Samsung Galaxy S24 5G,Electronics,1,69999.0,20.0,55999.2,-3359.95,Credit Card,Returned
+ORD-10358,2024-08-19,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,Samsung Galaxy S24 5G,Electronics,1,69999.0,15.0,59499.15,9638.86,Debit Card,Pending
+ORD-10425,2024-08-19,CUST-0016,Sunita Deshmukh,Female,42,Nagpur,Maharashtra,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,25.0,10874.25,1993.61,Cash on Delivery,Delivered
+ORD-10198,2024-08-20,CUST-0007,Vikram Singh,Male,41,Jaipur,Rajasthan,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,3,599.0,10.0,1617.3,694.36,Credit Card,Pending
+ORD-10446,2024-08-22,CUST-0030,Aarti Goswami,Female,29,Ahmedabad,Gujarat,Samsung Galaxy S24 5G,Electronics,1,69999.0,5.0,66499.05,0.0,UPI,Cancelled
+ORD-10740,2024-08-22,CUST-0045,Mohit Suri,Male,25,Noida,Uttar Pradesh,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,2,950.0,10.0,1710.0,526.68,Debit Card,Delivered
+ORD-10052,2024-08-27,CUST-0017,Arjun Kapoor,Male,31,Mumbai,Maharashtra,Philips Digital Air Fryer HD9252,Home & Kitchen,2,8499.0,10.0,15298.2,3569.58,Cash on Delivery,Delivered
+ORD-10460,2024-08-27,CUST-0051,Kabir Chopra,Male,37,Chennai,Tamil Nadu,Levi's 511 Slim Fit Denim,Fashion,1,2899.0,15.0,2464.15,0.0,Credit Card,Cancelled
+ORD-10775,2024-08-28,CUST-0016,Sunita Deshmukh,Female,42,Nagpur,Maharashtra,The Body Shop British Rose Shower Gel,Beauty & Personal Care,2,795.0,25.0,1192.5,-71.55,UPI,Returned
+ORD-10682,2024-08-30,CUST-0001,Aarav Sharma,Male,28,Mumbai,Maharashtra,Puma Classic Tracksuit,Fashion,1,3799.0,25.0,2849.25,854.77,UPI,Delivered
+ORD-10243,2024-08-31,CUST-0149,Mayank Desai,Male,50,Kanpur,Uttar Pradesh,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,2,999.0,0.0,1998.0,839.16,Net Banking,Delivered
+ORD-10235,2024-09-01,CUST-0065,Nandini Rastogi,Female,55,Coimbatore,Tamil Nadu,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,1,3295.0,5.0,3130.25,968.29,Credit Card,Pending
+ORD-10566,2024-09-01,CUST-0143,Mayank Chopra,Male,44,Varanasi,Uttar Pradesh,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,10.0,629.1,234.86,UPI,Delivered
+ORD-10661,2024-09-01,CUST-0104,Chetan Singhania,Male,56,Chennai,Tamil Nadu,Allen Solly Men's Cotton Polo,Fashion,2,1199.0,10.0,2158.2,886.3,UPI,Pending
+ORD-10558,2024-09-02,CUST-0044,Archana Pillai,Female,36,Coimbatore,Tamil Nadu,Mi 360 Home Security Camera 2K,Electronics,1,2999.0,5.0,2849.05,826.22,Net Banking,Delivered
+ORD-10751,2024-09-03,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,5.0,2270.5,746.24,Debit Card,Delivered
+ORD-10250,2024-09-04,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,The Body Shop British Rose Shower Gel,Beauty & Personal Care,1,795.0,15.0,675.75,0.0,Cash on Delivery,Cancelled
+ORD-10214,2024-09-09,CUST-0020,Meera Nambiar,Female,39,Thiruvananthapuram,Kerala,Samsung Galaxy S24 5G,Electronics,1,69999.0,0.0,69999.0,12599.82,Credit Card,Pending
+ORD-10432,2024-09-09,CUST-0060,Mayank Singhania,Male,22,Chandigarh,Punjab,Allen Solly Men's Cotton Polo,Fashion,2,1199.0,0.0,2398.0,1055.12,UPI,Delivered
+ORD-10037,2024-09-10,CUST-0011,Karan Malhotra,Male,38,Noida,Uttar Pradesh,Philips Digital Air Fryer HD9252,Home & Kitchen,1,8499.0,20.0,6799.2,1473.16,Credit Card,Pending
+ORD-10651,2024-09-11,CUST-0014,Kavita Mehra,Female,34,Chandigarh,Punjab,Boat Rockerz 450 Bluetooth Headset,Electronics,3,1499.0,0.0,4497.0,1573.95,UPI,Delivered
+ORD-10513,2024-09-12,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,20.0,5992.0,2181.09,Net Banking,Delivered
+ORD-10550,2024-09-12,CUST-0008,Pooja Nair,Female,30,Kochi,Kerala,Atomic Habits by James Clear,Books & Stationery,1,499.0,0.0,499.0,179.64,Cash on Delivery,Delivered
+ORD-10817,2024-09-12,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,2,350.0,25.0,525.0,175.0,UPI,Delivered
+ORD-10096,2024-09-13,CUST-0057,Dev Bhattacharya,Male,26,Kolkata,West Bengal,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,25.0,2137.5,855.0,UPI,Delivered
+ORD-10447,2024-09-13,CUST-0045,Mohit Suri,Male,25,Noida,Uttar Pradesh,Sony WH-1000XM5 ANC Headphones,Electronics,1,26990.0,10.0,24291.0,4987.75,Cash on Delivery,Delivered
+ORD-10044,2024-09-15,CUST-0021,Gaurav Saxena,Male,27,Bhopal,Madhya Pradesh,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,15.0,9770.75,3253.66,UPI,Delivered
+ORD-10070,2024-09-16,CUST-0127,Radhika Singhania,Female,37,Kolkata,West Bengal,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,25.0,8621.25,2658.22,Debit Card,Delivered
+ORD-10111,2024-09-16,CUST-0017,Arjun Kapoor,Male,31,Mumbai,Maharashtra,Zara Classic Linen Casual Shirt,Fashion,1,2990.0,5.0,2840.5,1098.33,Debit Card,Delivered
+ORD-10178,2024-09-16,CUST-0042,Pallavi Shenoy,Female,29,Bengaluru,Karnataka,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,4,649.0,5.0,2466.2,1001.28,UPI,Delivered
+ORD-10687,2024-09-17,CUST-0055,Vidya Narang,Female,20,Gurugram,Haryana,Allen Solly Men's Cotton Polo,Fashion,2,1199.0,25.0,1798.5,659.45,UPI,Pending
+ORD-10644,2024-09-18,CUST-0087,Dev Rastogi,Male,22,Kolkata,West Bengal,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,25.0,10874.25,1993.61,UPI,Delivered
+ORD-10582,2024-09-19,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,The Psychology of Money by Morgan Housel,Books & Stationery,1,399.0,15.0,339.15,115.99,Net Banking,Delivered
+ORD-10588,2024-09-19,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,20.0,5992.0,2181.09,UPI,Delivered
+ORD-10596,2024-09-19,CUST-0010,Neha Gupta,Female,26,New Delhi,Delhi,Mi 360 Home Security Camera 2K,Electronics,3,2999.0,10.0,8097.3,2267.24,Credit Card,Pending
+ORD-10259,2024-09-20,CUST-0001,Aarav Sharma,Male,28,Mumbai,Maharashtra,Puma Classic Tracksuit,Fashion,1,3799.0,10.0,3419.1,1148.82,UPI,Delivered
+ORD-10333,2024-09-20,CUST-0047,Sanjay Rathore,Male,47,Jaipur,Rajasthan,Allen Solly Men's Cotton Polo,Fashion,1,1199.0,20.0,959.2,365.77,Debit Card,Delivered
+ORD-10130,2024-09-21,CUST-0001,Aarav Sharma,Male,28,Mumbai,Maharashtra,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,0.0,31900.0,6699.0,UPI,Delivered
+ORD-10170,2024-09-23,CUST-0013,Amitabh Sen,Male,45,Kolkata,West Bengal,Parker Frontier Matte Black Fountain Pen,Books & Stationery,2,650.0,15.0,1105.0,457.47,Credit Card,Pending
+ORD-10324,2024-09-23,CUST-0020,Meera Nambiar,Female,39,Thiruvananthapuram,Kerala,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,10.0,10345.5,0.0,Credit Card,Cancelled
+ORD-10455,2024-09-23,CUST-0047,Sanjay Rathore,Male,47,Jaipur,Rajasthan,Parker Frontier Matte Black Fountain Pen,Books & Stationery,2,650.0,0.0,1300.0,598.0,UPI,Delivered
+ORD-10571,2024-09-23,CUST-0012,Divya Rao,Female,25,Bengaluru,Karnataka,The Body Shop British Rose Shower Gel,Beauty & Personal Care,1,795.0,0.0,795.0,0.0,UPI,Cancelled
+ORD-10631,2024-09-23,CUST-0143,Mayank Chopra,Male,44,Varanasi,Uttar Pradesh,Prestige Induction Cooktop 2000W,Home & Kitchen,1,2899.0,0.0,2899.0,811.72,Credit Card,Delivered
+ORD-10101,2024-09-24,CUST-0107,Kiara Aggarwal,Female,39,Kanpur,Uttar Pradesh,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,3,499.0,0.0,1497.0,673.65,UPI,Delivered
+ORD-10262,2024-09-24,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Allen Solly Men's Cotton Polo,Fashion,2,1199.0,25.0,1798.5,659.45,Credit Card,Delivered
+ORD-10520,2024-09-24,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,Levi's 511 Slim Fit Denim,Fashion,2,2899.0,10.0,5218.2,1850.72,UPI,Delivered
+ORD-10360,2024-09-25,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,5.0,13774.05,2929.28,UPI,Delivered
+ORD-10726,2024-09-25,CUST-0006,Sneha Reddy,Female,27,Hyderabad,Telangana,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,0.0,11495.0,-689.7,Cash on Delivery,Returned
+ORD-10381,2024-09-27,CUST-0063,Isha Aggarwal,Female,37,Indore,Madhya Pradesh,Boat Rockerz 450 Bluetooth Headset,Electronics,3,1499.0,15.0,3822.45,1204.07,Debit Card,Delivered
+ORD-10546,2024-09-27,CUST-0132,Suraj Bhattacharya,Male,24,Ludhiana,Punjab,Zara Classic Linen Casual Shirt,Fashion,2,2990.0,20.0,4784.0,-287.04,Debit Card,Returned
+ORD-10308,2024-09-29,CUST-0045,Mohit Suri,Male,25,Noida,Uttar Pradesh,Puma Classic Tracksuit,Fashion,1,3799.0,10.0,3419.1,-205.15,Debit Card,Returned
+ORD-10167,2024-09-30,CUST-0043,Rohit Khandelwal,Male,32,Indore,Madhya Pradesh,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,1,350.0,0.0,350.0,140.0,Debit Card,Delivered
+ORD-10650,2024-09-30,CUST-0140,Ojas Patil,Male,35,Ludhiana,Punjab,Puma Classic Tracksuit,Fashion,1,3799.0,15.0,3229.15,1046.24,UPI,Pending
+ORD-10841,2024-09-30,CUST-0054,Mayank Aggarwal,Male,54,Ahmedabad,Gujarat,Prestige Induction Cooktop 2000W,Home & Kitchen,3,2899.0,25.0,6522.75,1521.98,UPI,Pending
+ORD-10435,2024-10-02,CUST-0075,Tara Narang,Female,47,New Delhi,Delhi,Parker Frontier Matte Black Fountain Pen,Books & Stationery,2,650.0,15.0,1105.0,457.47,UPI,Delivered
+ORD-10541,2024-10-02,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,15.0,13174.15,2845.62,UPI,Pending
+ORD-10210,2024-10-03,CUST-0108,Kabir Kaur,Male,56,Bengaluru,Karnataka,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,5.0,13774.05,-826.44,Credit Card,Returned
+ORD-10281,2024-10-03,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,1,599.0,25.0,449.25,172.21,Credit Card,Delivered
+ORD-10459,2024-10-03,CUST-0042,Pallavi Shenoy,Female,29,Bengaluru,Karnataka,Apple iPhone 15 (128GB),Electronics,1,74999.0,25.0,56249.25,7499.9,UPI,Delivered
+ORD-10786,2024-10-04,CUST-0001,Aarav Sharma,Male,28,Mumbai,Maharashtra,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,20.0,5992.0,-359.52,Debit Card,Returned
+ORD-10605,2024-10-05,CUST-0065,Nandini Rastogi,Female,55,Coimbatore,Tamil Nadu,Levi's 511 Slim Fit Denim,Fashion,1,2899.0,0.0,2899.0,1101.62,UPI,Delivered
+ORD-10746,2024-10-05,CUST-0075,Tara Narang,Female,47,New Delhi,Delhi,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,15.0,93491.5,11779.93,UPI,Delivered
+ORD-10768,2024-10-05,CUST-0040,Deepika Sundaram,Female,33,Chennai,Tamil Nadu,Samsung Galaxy S24 5G,Electronics,1,69999.0,20.0,55999.2,8735.88,UPI,Delivered
+ORD-10442,2024-10-06,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,3,1799.0,0.0,5397.0,2266.74,Debit Card,Delivered
+ORD-10510,2024-10-07,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,Parker Frontier Matte Black Fountain Pen,Books & Stationery,2,650.0,5.0,1235.0,549.16,Cash on Delivery,Delivered
+ORD-10112,2024-10-08,CUST-0029,Harish Hegde,Male,40,Mysuru,Karnataka,Logitech MX Master 3S Mouse,Electronics,1,8995.0,20.0,7196.0,1746.23,UPI,Delivered
+ORD-10103,2024-10-10,CUST-0017,Arjun Kapoor,Male,31,Mumbai,Maharashtra,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,3,999.0,5.0,2847.15,1155.94,Net Banking,Delivered
+ORD-10246,2024-10-10,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,5.0,949.05,385.31,UPI,Pending
+ORD-10712,2024-10-10,CUST-0071,Kartik Kaur,Male,25,Gurugram,Haryana,Atomic Habits by James Clear,Books & Stationery,1,499.0,20.0,399.2,124.55,UPI,Delivered
+ORD-10789,2024-10-11,CUST-0094,Kiara Narang,Female,49,Chennai,Tamil Nadu,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,2,3295.0,20.0,5272.0,1462.1,Debit Card,Delivered
+ORD-10554,2024-10-15,CUST-0075,Tara Narang,Female,47,New Delhi,Delhi,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,2,1799.0,10.0,3238.2,0.0,UPI,Cancelled
+ORD-10705,2024-10-15,CUST-0006,Sneha Reddy,Female,27,Hyderabad,Telangana,Ray-Ban Aviator Polarized Sunglasses,Fashion,3,7490.0,25.0,16852.5,5898.38,UPI,Delivered
+ORD-10787,2024-10-15,CUST-0085,Aryan Mittal,Male,24,Kolkata,West Bengal,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,2,14499.0,20.0,23198.4,4423.16,Credit Card,Delivered
+ORD-10336,2024-10-16,CUST-0014,Kavita Mehra,Female,34,Chandigarh,Punjab,Parker Frontier Matte Black Fountain Pen,Books & Stationery,1,650.0,15.0,552.5,228.74,Cash on Delivery,Delivered
+ORD-10551,2024-10-16,CUST-0055,Vidya Narang,Female,20,Gurugram,Haryana,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,25.0,10874.25,1993.61,Cash on Delivery,Delivered
+ORD-10374,2024-10-17,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,Prestige Induction Cooktop 2000W,Home & Kitchen,2,2899.0,20.0,4638.4,1125.59,UPI,Delivered
+ORD-10515,2024-10-17,CUST-0107,Kiara Aggarwal,Female,39,Kanpur,Uttar Pradesh,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,2,950.0,15.0,1615.0,479.66,Cash on Delivery,Delivered
+ORD-10741,2024-10-17,CUST-0010,Neha Gupta,Female,26,New Delhi,Delhi,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,2,599.0,5.0,1138.1,506.08,Credit Card,Delivered
+ORD-10733,2024-10-18,CUST-0020,Meera Nambiar,Female,39,Thiruvananthapuram,Kerala,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,2,999.0,25.0,1498.5,524.48,UPI,Delivered
+ORD-10806,2024-10-18,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,2,649.0,5.0,1233.1,500.64,UPI,Delivered
+ORD-10076,2024-10-19,CUST-0007,Vikram Singh,Male,41,Jaipur,Rajasthan,Apple iPhone 15 (128GB),Electronics,1,74999.0,25.0,56249.25,7499.9,Net Banking,Delivered
+ORD-10221,2024-10-19,CUST-0072,Yash Aggarwal,Male,30,Gurugram,Haryana,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,2,649.0,5.0,1233.1,500.64,Debit Card,Delivered
+ORD-10106,2024-10-20,CUST-0019,Deepak Bhatt,Male,36,Indore,Madhya Pradesh,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,2,2390.0,20.0,3824.0,1126.81,Credit Card,Delivered
+ORD-10633,2024-10-21,CUST-0069,Pranav Trivedi,Male,35,Bhopal,Madhya Pradesh,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,0.0,2850.0,1368.0,Cash on Delivery,Delivered
+ORD-10075,2024-10-22,CUST-0060,Mayank Singhania,Male,22,Chandigarh,Punjab,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,1,3295.0,0.0,3295.0,-197.7,Cash on Delivery,Returned
+ORD-10453,2024-10-22,CUST-0145,Isha Trivedi,Female,53,Lucknow,Uttar Pradesh,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,0.0,15499.0,3719.76,Credit Card,Delivered
+ORD-10542,2024-10-22,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,1,499.0,20.0,399.2,155.69,Debit Card,Delivered
+ORD-10674,2024-10-22,CUST-0037,Vivek Chawla,Male,39,New Delhi,Delhi,Ray-Ban Aviator Polarized Sunglasses,Fashion,2,7490.0,0.0,14980.0,6291.6,UPI,Delivered
+ORD-10363,2024-10-23,CUST-0064,Kartik Chopra,Male,35,New Delhi,Delhi,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,3,649.0,10.0,1752.3,686.9,Debit Card,Delivered
+ORD-10252,2024-10-24,CUST-0036,Kajal Tripathi,Female,28,Varanasi,Uttar Pradesh,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,2,14499.0,5.0,27548.1,-1652.89,Credit Card,Returned
+ORD-10443,2024-10-24,CUST-0141,Girish Mittal,Male,29,Mumbai,Maharashtra,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,0.0,109990.0,15398.6,UPI,Delivered
+ORD-10815,2024-10-24,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Boat Rockerz 450 Bluetooth Headset,Electronics,1,1499.0,5.0,1424.05,-85.44,UPI,Returned
+ORD-10671,2024-10-25,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Levi's 511 Slim Fit Denim,Fashion,2,2899.0,5.0,5508.1,2023.31,Credit Card,Delivered
+ORD-10529,2024-10-26,CUST-0044,Archana Pillai,Female,36,Coimbatore,Tamil Nadu,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,1,950.0,0.0,950.0,313.5,UPI,Delivered
+ORD-10807,2024-10-26,CUST-0023,Rajesh Pillai,Male,48,Coimbatore,Tamil Nadu,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,5.0,13774.05,2929.28,Cash on Delivery,Delivered
+ORD-10157,2024-10-28,CUST-0042,Pallavi Shenoy,Female,29,Bengaluru,Karnataka,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,0.0,14499.0,3189.78,Credit Card,Delivered
+ORD-10085,2024-11-01,CUST-0080,Kabir Mittal,Male,56,Bengaluru,Karnataka,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,0.0,999.0,419.58,Cash on Delivery,Delivered
+ORD-10406,2024-11-01,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,2,350.0,15.0,595.0,214.2,UPI,Delivered
+ORD-10305,2024-11-02,CUST-0084,Payal Aggarwal,Female,43,Varanasi,Uttar Pradesh,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,20.0,25520.0,4644.64,Cash on Delivery,Delivered
+ORD-10090,2024-11-03,CUST-0035,Abhishek Das,Male,34,Kolkata,West Bengal,Logitech MX Master 3S Mouse,Electronics,2,8995.0,5.0,17090.5,4625.83,UPI,Delivered
+ORD-10042,2024-11-04,CUST-0026,Ishita Roy,Female,30,Kolkata,West Bengal,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,15.0,2422.5,1046.52,Debit Card,Delivered
+ORD-10779,2024-11-04,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Nivia Storm Football Size 5,Sports & Fitness,3,699.0,5.0,1992.15,770.3,Credit Card,Delivered
+ORD-10419,2024-11-05,CUST-0144,Yash Aggarwal,Male,20,Gurugram,Haryana,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,4,999.0,0.0,3996.0,1678.32,UPI,Delivered
+ORD-10064,2024-11-06,CUST-0072,Yash Aggarwal,Male,30,Gurugram,Haryana,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,20.0,9196.0,2948.85,UPI,Delivered
+ORD-10754,2024-11-06,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Boat Rockerz 450 Bluetooth Headset,Electronics,1,1499.0,5.0,1424.05,481.8,UPI,Delivered
+ORD-10774,2024-11-06,CUST-0057,Dev Bhattacharya,Male,26,Kolkata,West Bengal,Nivia Storm Football Size 5,Sports & Fitness,2,699.0,15.0,1188.3,427.79,Credit Card,Pending
+ORD-10392,2024-11-08,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Apple iPhone 15 (128GB),Electronics,1,74999.0,20.0,59999.2,8319.89,Credit Card,Delivered
+ORD-10473,2024-11-08,CUST-0024,Tanvi Kulkarni,Female,23,Pune,Maharashtra,Apple iPad Air M2,Electronics,1,54900.0,10.0,49410.0,7839.72,Credit Card,Delivered
+ORD-10639,2024-11-09,CUST-0037,Vivek Chawla,Male,39,New Delhi,Delhi,Ikigai: Japanese Secret to a Long Happy Life,Books & Stationery,3,350.0,0.0,1050.0,420.0,Credit Card,Delivered
+ORD-10654,2024-11-10,CUST-0073,Chetan Bhattacharya,Male,58,Kanpur,Uttar Pradesh,Mi 360 Home Security Camera 2K,Electronics,2,2999.0,5.0,5698.1,1652.45,Cash on Delivery,Delivered
+ORD-10337,2024-11-12,CUST-0040,Deepika Sundaram,Female,33,Chennai,Tamil Nadu,Puma Classic Tracksuit,Fashion,1,3799.0,20.0,3039.2,948.23,UPI,Delivered
+ORD-10465,2024-11-15,CUST-0002,Priya Patel,Female,32,Ahmedabad,Gujarat,Milton Thermosteel Flip Flask 1000ml,Home & Kitchen,2,950.0,10.0,1710.0,0.0,UPI,Cancelled
+ORD-10261,2024-11-17,CUST-0042,Pallavi Shenoy,Female,29,Bengaluru,Karnataka,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,15.0,2031.5,621.64,UPI,Delivered
+ORD-10141,2024-11-18,CUST-0095,Sanya Desai,Female,55,Bengaluru,Karnataka,SleepyCat Memory Foam Ortho Mattress,Home & Kitchen,1,13999.0,20.0,11199.2,2911.79,UPI,Delivered
+ORD-10570,2024-11-18,CUST-0033,Sameer Khan,Male,30,Hyderabad,Telangana,Prestige Induction Cooktop 2000W,Home & Kitchen,1,2899.0,5.0,2754.05,745.43,UPI,Delivered
+ORD-10667,2024-11-19,CUST-0072,Yash Aggarwal,Male,30,Gurugram,Haryana,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,20.0,5992.0,-359.52,UPI,Returned
+ORD-10514,2024-11-20,CUST-0011,Karan Malhotra,Male,38,Noida,Uttar Pradesh,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,3,1799.0,10.0,4857.3,1904.06,Credit Card,Delivered
+ORD-10276,2024-11-23,CUST-0008,Pooja Nair,Female,30,Kochi,Kerala,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,20.0,5992.0,2181.09,Credit Card,Delivered
+ORD-10387,2024-11-23,CUST-0027,Nikhil Chauhan,Male,26,Ludhiana,Punjab,The Psychology of Money by Morgan Housel,Books & Stationery,1,399.0,5.0,379.05,139.24,UPI,Delivered
+ORD-10060,2024-11-24,CUST-0044,Archana Pillai,Female,36,Coimbatore,Tamil Nadu,Boat Rockerz 450 Bluetooth Headset,Electronics,3,1499.0,15.0,3822.45,1204.07,Net Banking,Delivered
+ORD-10372,2024-11-24,CUST-0010,Neha Gupta,Female,26,New Delhi,Delhi,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,0.0,14499.0,3189.78,Credit Card,Delivered
+ORD-10734,2024-11-24,CUST-0054,Mayank Aggarwal,Male,54,Ahmedabad,Gujarat,Mi 360 Home Security Camera 2K,Electronics,1,2999.0,10.0,2699.1,755.75,Credit Card,Delivered
+ORD-10097,2024-11-25,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,10.0,2151.0,-129.06,UPI,Returned
+ORD-10478,2024-11-25,CUST-0083,Isha Rastogi,Female,54,Gurugram,Haryana,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,0.0,14499.0,3189.78,Credit Card,Delivered
+ORD-10665,2024-11-25,CUST-0050,Geeta Madhavan,Female,41,Chennai,Tamil Nadu,Decathlon 20kg Cast Iron Dumbbell Set,Sports & Fitness,1,3499.0,15.0,2974.15,749.49,Net Banking,Delivered
+ORD-10850,2024-11-25,CUST-0065,Nandini Rastogi,Female,55,Coimbatore,Tamil Nadu,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,2,649.0,15.0,1103.3,417.05,Credit Card,Delivered
+ORD-10254,2024-11-26,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Boldfit Anti-Tear NBR Yoga Mat,Sports & Fitness,1,999.0,0.0,999.0,419.58,UPI,Delivered
+ORD-10196,2024-11-27,CUST-0008,Pooja Nair,Female,30,Kochi,Kerala,Mi 360 Home Security Camera 2K,Electronics,1,2999.0,20.0,2399.2,623.79,Cash on Delivery,Delivered
+ORD-10147,2024-11-29,CUST-0003,Rahul Verma,Male,24,Bengaluru,Karnataka,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,0.0,15499.0,3719.76,UPI,Delivered
+ORD-10370,2024-11-29,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Fossil Minimalist Chronograph Watch,Fashion,1,11495.0,25.0,8621.25,2658.22,UPI,Delivered
+ORD-10323,2024-11-30,CUST-0050,Geeta Madhavan,Female,41,Chennai,Tamil Nadu,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,2,31900.0,5.0,60610.0,12303.83,Cash on Delivery,Delivered
+ORD-10664,2024-11-30,CUST-0050,Geeta Madhavan,Female,41,Chennai,Tamil Nadu,Philips All-in-One Trimmer MG7715,Beauty & Personal Care,1,3295.0,25.0,2471.25,659.0,UPI,Delivered
+ORD-10115,2024-12-02,CUST-0073,Chetan Bhattacharya,Male,58,Kanpur,Uttar Pradesh,OnePlus Nord CE 3 Lite 5G,Electronics,1,18499.0,0.0,18499.0,3699.8,UPI,Delivered
+ORD-10134,2024-12-02,CUST-0025,Siddharth Jain,Male,33,Jaipur,Rajasthan,Moleskine Classic Hard Cover Ruled Journal,Books & Stationery,2,1799.0,25.0,2698.5,944.47,Debit Card,Delivered
+ORD-10697,2024-12-02,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,20.0,2280.0,0.0,UPI,Cancelled
+ORD-10475,2024-12-03,CUST-0036,Kajal Tripathi,Female,28,Varanasi,Uttar Pradesh,The Body Shop British Rose Shower Gel,Beauty & Personal Care,2,795.0,0.0,1590.0,699.6,UPI,Delivered
+ORD-10808,2024-12-04,CUST-0006,Sneha Reddy,Female,27,Hyderabad,Telangana,Prestige Induction Cooktop 2000W,Home & Kitchen,1,2899.0,10.0,2609.1,681.84,UPI,Delivered
+ORD-10172,2024-12-05,CUST-0072,Yash Aggarwal,Male,30,Gurugram,Haryana,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,20.0,11599.2,2211.58,Debit Card,Pending
+ORD-10291,2024-12-08,CUST-0075,Tara Narang,Female,47,New Delhi,Delhi,Parker Frontier Matte Black Fountain Pen,Books & Stationery,1,650.0,15.0,552.5,228.74,Debit Card,Delivered
+ORD-10511,2024-12-08,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,Allen Solly Men's Cotton Polo,Fashion,1,1199.0,25.0,899.25,329.73,Credit Card,Delivered
+ORD-10607,2024-12-09,CUST-0022,Shweta Mishra,Female,31,Kanpur,Uttar Pradesh,Nivia Storm Football Size 5,Sports & Fitness,1,699.0,10.0,629.1,234.86,UPI,Delivered
+ORD-10681,2024-12-13,CUST-0045,Mohit Suri,Male,25,Noida,Uttar Pradesh,Logitech MX Master 3S Mouse,Electronics,1,8995.0,20.0,7196.0,1746.23,UPI,Delivered
+ORD-10845,2024-12-13,CUST-0001,Aarav Sharma,Male,28,Mumbai,Maharashtra,Apple iPad Air M2,Electronics,1,54900.0,10.0,49410.0,7839.72,Credit Card,Delivered
+ORD-10211,2024-12-14,CUST-0046,Ankita Bose,Female,28,Kolkata,West Bengal,Zara Classic Linen Casual Shirt,Fashion,1,2990.0,25.0,2242.5,747.5,UPI,Delivered
+ORD-10721,2024-12-14,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,Allen Solly Men's Cotton Polo,Fashion,1,1199.0,20.0,959.2,365.77,UPI,Delivered
+ORD-10724,2024-12-14,CUST-0068,Harshit Kaur,Male,45,Ludhiana,Punjab,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,1,14499.0,15.0,12324.15,2440.18,Debit Card,Delivered
+ORD-10050,2024-12-15,CUST-0007,Vikram Singh,Male,41,Jaipur,Rajasthan,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,3,649.0,10.0,1752.3,686.9,Debit Card,Delivered
+ORD-10713,2024-12-15,CUST-0009,Aditya Joshi,Male,33,Pune,Maharashtra,Nivia Storm Football Size 5,Sports & Fitness,2,699.0,25.0,1048.5,349.5,Credit Card,Delivered
+ORD-10505,2024-12-16,CUST-0004,Ananya Iyer,Female,29,Chennai,Tamil Nadu,Kent Grand Plus RO Water Purifier,Home & Kitchen,1,15499.0,20.0,12399.2,2579.03,Credit Card,Delivered
+ORD-10036,2024-12-17,CUST-0045,Mohit Suri,Male,25,Noida,Uttar Pradesh,SleepyCat Memory Foam Ortho Mattress,Home & Kitchen,1,13999.0,10.0,12599.1,3527.75,UPI,Delivered
+ORD-10312,2024-12-18,CUST-0138,Shreya Kaur,Female,33,Jaipur,Rajasthan,Maybelline Superstay Matte Ink Lipstick,Beauty & Personal Care,1,499.0,0.0,499.0,224.55,Credit Card,Delivered
+ORD-10314,2024-12-18,CUST-0013,Amitabh Sen,Male,45,Kolkata,West Bengal,Prestige Induction Cooktop 2000W,Home & Kitchen,1,2899.0,0.0,2899.0,811.72,UPI,Delivered
+ORD-10646,2024-12-20,CUST-0014,Kavita Mehra,Female,34,Chandigarh,Punjab,Parker Frontier Matte Black Fountain Pen,Books & Stationery,2,650.0,10.0,1170.0,502.32,Credit Card,Delivered
+ORD-10847,2024-12-20,CUST-0005,Rohan Mukherjee,Male,35,Kolkata,West Bengal,Forest Essentials Soundarya Face Cream,Beauty & Personal Care,1,2850.0,10.0,2565.0,1149.12,UPI,Delivered
+ORD-10099,2024-12-21,CUST-0018,Ritu Choudhury,Female,28,Surat,Gujarat,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,25.0,1792.5,507.88,Credit Card,Delivered
+ORD-10466,2024-12-21,CUST-0032,Bhavna Shah,Female,37,Mumbai,Maharashtra,Parker Frontier Matte Black Fountain Pen,Books & Stationery,3,650.0,5.0,1852.5,823.75,Credit Card,Delivered
+ORD-10317,2024-12-22,CUST-0078,Suraj Patil,Male,30,Jaipur,Rajasthan,Apple iPad Air M2,Electronics,1,54900.0,25.0,41175.0,5833.13,UPI,Pending
+ORD-10823,2024-12-23,CUST-0036,Kajal Tripathi,Female,28,Varanasi,Uttar Pradesh,Boat Rockerz 450 Bluetooth Headset,Electronics,1,1499.0,5.0,1424.05,-85.44,Credit Card,Returned
+ORD-10114,2024-12-26,CUST-0020,Meera Nambiar,Female,39,Thiruvananthapuram,Kerala,SleepyCat Memory Foam Ortho Mattress,Home & Kitchen,1,13999.0,25.0,10499.25,2624.81,UPI,Delivered
+ORD-10816,2024-12-26,CUST-0013,Amitabh Sen,Male,45,Kolkata,West Bengal,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,1,2390.0,15.0,2031.5,621.64,UPI,Delivered
+ORD-10621,2024-12-27,CUST-0011,Karan Malhotra,Male,38,Noida,Uttar Pradesh,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,2,599.0,0.0,1198.0,551.08,Cash on Delivery,Delivered
+ORD-10267,2024-12-28,CUST-0052,Mayank Singhania,Male,54,Mysuru,Karnataka,L'Oreal Paris Extraordinary Oil Serum,Beauty & Personal Care,1,649.0,0.0,649.0,272.58,UPI,Pending
+ORD-10424,2024-12-28,CUST-0102,Anushka Rastogi,Female,53,New Delhi,Delhi,Ray-Ban Aviator Polarized Sunglasses,Fashion,1,7490.0,20.0,5992.0,2181.09,UPI,Delivered
+ORD-10739,2024-12-28,CUST-0015,Manish Tiwari,Male,29,Lucknow,Uttar Pradesh,Nike Air Max 270 Sneakers,Fashion,1,8995.0,10.0,8095.5,2417.86,Credit Card,Delivered
+ORD-10148,2024-12-29,CUST-0006,Sneha Reddy,Female,27,Hyderabad,Telangana,The Psychology of Money by Morgan Housel,Books & Stationery,2,399.0,15.0,678.3,231.98,Net Banking,Delivered
+ORD-10489,2024-12-29,CUST-0122,Alok Rastogi,Male,35,New Delhi,Delhi,Dell XPS 13 Core i7 Laptop,Electronics,1,109990.0,20.0,87992.0,10676.36,UPI,Delivered
+ORD-10371,2024-12-30,CUST-0045,Mohit Suri,Male,25,Noida,Uttar Pradesh,Parker Frontier Matte Black Fountain Pen,Books & Stationery,1,650.0,10.0,585.0,251.16,Credit Card,Pending
+ORD-10598,2024-12-30,CUST-0083,Isha Rastogi,Female,54,Gurugram,Haryana,Minimalist 10% Niacinamide Serum,Beauty & Personal Care,1,599.0,20.0,479.2,191.04,Debit Card,Delivered
+ORD-10237,2024-12-31,CUST-0008,Pooja Nair,Female,30,Kochi,Kerala,Dyson V8 Absolute Cordless Vacuum,Home & Kitchen,1,31900.0,25.0,23925.0,4186.88,Debit Card,Delivered
+ORD-10377,2024-12-31,CUST-0047,Sanjay Rathore,Male,47,Jaipur,Rajasthan,Fitbit Charge 6 Advanced Fitness Tracker,Sports & Fitness,2,14499.0,20.0,23198.4,4423.16,UPI,Delivered
+ORD-10766,2024-12-31,CUST-0043,Rohit Khandelwal,Male,32,Indore,Madhya Pradesh,Yonex Muscle Power 29 Badminton Racket,Sports & Fitness,2,2390.0,25.0,3585.0,1015.75,UPI,Delivered
