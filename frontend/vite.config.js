@@ -4,4 +4,7 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
+  server: {
+    allowedHosts: ['ecomerce-6jf4.onrender.com'],
+  },
 })
