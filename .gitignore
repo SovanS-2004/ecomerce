@@ -15,6 +15,7 @@ frontend/dist/
 .env
 .env.*
 !.env.example
+gcm-diagnose.log
 
 # Editor and OS files
 .vscode/
